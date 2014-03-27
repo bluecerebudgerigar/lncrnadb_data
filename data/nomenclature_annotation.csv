@@ -1,0 +1,222 @@
+TranscriptID;ncRNAName;Aliases
+77;Air;"Airn, IGF2RAS"
+78;BC200;"BCYRN1 (brain cytoplasmic RNA 1)"
+79;ANRIL;"CDKN2B-AS1, p15AS"
+81;BACE1AS;"NCRNA00177, BACE1-AS; FJ573250"
+82;BC1;"None known"
+83;BORG;"None known"
+84;"CCND1 associated ncRNAs";"None known"
+86;G22;"None known"
+87;EGO;EGOT
+88;Gomafu;"MIAT, RNCR2"
+89;"DHFR upstream transcripts";"DHFR minor transcript 5'-UTR"
+90;Evf2;"Evf-2, Dlx6as1, Dlx6os1"
+91;Gadd7;adapt15
+92;GAS5;SNHG2
+93;Malat1;Neat2
+94;mascRNA;Malat1
+95;HAR1A;"HAR1F "
+96;H19;"None known"
+97;HOTAIR;Gm16258
+98;HOTAIRM1;"HIT06113, HIT92376, linc1548"
+99;Hsr1;"None known"
+100;pRNA;"IGS RNAs, intergenic nc-rRNA"
+101;Kcnq1ot1;"LIT1, KvLQT1-AS, KvLQT1OT1"
+102;Khps1a;Khps1
+103;lincENC1;"Gm2373, Mm.219358"
+104;MEG3;Gtl2
+105;NEAT1;"MEN epsilon/beta, VINC, TncRNA, linc1317"
+106;ncR-uPAR;NCRUPAR
+107;Nkx2.2AS;"None known"
+108;NRON;"None known"
+110;PCGEM1;"None known"
+111;PRINS;"None known"
+112;PINC;"None known"
+113;"RepA transcript";"None known"
+114;SAF;"FAS-AS (FAS antisense RNA)"
+115;"SatIII transcripts";"None known"
+116;SCA8;"ATXN8OS, KLHL1AS"
+117;SRA;SRA1
+118;TERRA;TelRNAs
+119;Tsix;"None known"
+120;TUG1;"None known"
+121;UCA1;CUDR
+122;Xist;"None known"
+123;"Y RNAs";"YRNA, RNY RNAs, hY RNA (human)"
+124;Zeb2NAT;ZEB2AS
+125;Zfhx2as;Zfh-5AS
+126;Six3os;RNCR1
+127;RNCR3;"A930011O12Rik, LOC157627"
+128;Frigidair;"None known"
+129;lincRNA-Sox2;"None known"
+130;lincRNA-Cox2;AK144630
+131;"H19 ICR ncRNAs";"None known"
+132;"Alpha 250/ Alpha 280";"None known"
+133;Xlsirts;"None known"
+134;"VegT RNA";"None known"
+135;"Centromeric alpha-satellite RNA";"None known"
+136;Ks-1;"None known"
+137;AncR-1;"None known"
+138;Rian;"Irm, MEG8 and Bsr, linc1458"
+139;Bsr;Rian
+140;7SL;"7S RNA, SRP RNA, 4.5S SRP RNA, 4.5S RNA, RN7SL1 RNA"
+142;"Beta-globin transcripts";"None known"
+143;"VL30 RNAs";"None known"
+144;LXRBSV;"None known"
+145;Nespas;"Gnas-as, GNAS antisense transcript, GNAS1as, SANG"
+146;LUST;Je2
+147;tie-1as;"None known"
+148;Msx1as;"None known"
+149;MEG9;Mirg
+150;antiPeg11;"antiRtl1, PEG11as"
+151;NDM29;29A
+152;"Beta-MHC antisense transcripts";"intergenic beta MHC RNA, beta RNA; MHC bII, aII and xII NATs"
+153;"H19 antisense";91H
+154;"H19 upstream conserved 1 & 2";"Huc 1 & 2"
+155;SNHG1;UHG
+156;Pldi;"None known"
+157;bft;bereft
+158;IPS1;"TPSI/Mt4 family"
+159;SNHG3;"U17HG, linc1343"
+160;SNHG5;U50HG
+161;SNHG6;U87HG
+162;SNHG4;U19H
+163;"p53 mRNA";"None known"
+164;NTT;"None known"
+165;TncRNA;TSU
+166;dUHGs;"dUHG1, dUHG2, dUHG3, dUHG4, dUHG5, dUHG7, dUHG8"
+167;MSUR1;"None known"
+169;"E2F4 antisense";"None known"
+170;WT1-AS;WIT1
+171;Hoxa11as;"Hoxa11s, Hoxa11os, NCRNA00076"
+172;Emx2os;"None known"
+173;"PR antisense transcripts";"AT1, AT2, AT3"
+174;SRG1;"None known"
+175;HOTTIP;"HOXA13as, HIT18844, NCRNA00213"
+176;HOXA3as;"HIT12844, HIT94153"
+177;HOXA6as;HIT16800
+178;Otx2os1;OTX2-AS1
+180;Hoxd3as;"Dxoh-3, Hoxd3os"
+182;anti-NOS2A;"None known"
+183;HULC;"None known"
+184;snaR;"small NF90-associated RNAs"
+185;COOLAIR;"None known"
+186;"antisense TGF beta 3";"None known"
+187;PTENP1;"PTENpg1, PTEN2"
+188;UM9-5;"NCRNA00099, KCNIP4-IT1"
+189;"TEA ncRNAs";"None known"
+190;7SK;"7-3 RNA, K-RNA, 7SK-RNA, 7SK snRNA, RN7SK"
+191;"Maternal RNA templates";"Oxytricha trifallax genome unscrambling guide RNAs"
+192;dutA;"None known"
+193;"psvA antisense RNA";"None known"
+194;"frq antisense RNAs";"None known"
+195;"Maternal somatic nucleus RNAs";"Paramecium tetraurelia maternal macronucleus noncoding RNAs"
+196;L1PA16;"None known"
+197;MER11C;HERVK11
+198;"PSF inhibiting RNA";"None known"
+199;LINoCR;"None known"
+200;"B2 SINE RNA";"None known"
+201;DISC2;"DISC1os
+NCRNA00015
+"
+202;Tmevpg1;"None known"
+203;DLG2AS;"PSZA11q14, SZ-1"
+204;ST7OT;"ST7OT1, ST7OT2, ST7OT3, ST7OT4
+<br></br>
+ST7AS1, ST7AS2, ST7AS3, ST7AS4"
+206;IGF2AS;PEG8
+207;IPW;NCRNA00002
+208;"Prion-associated RNAs";"None known"
+209;"fbp1+ promoter RNAs";"None known"
+210;"PHO5 lncRNA";PHO5as
+211;"PHO84 antisense";"None known"
+212;ENOD40;"None known"
+213;meiRNA;sme2
+214;lincRNA-p21;"Ak144811, Gm16197"
+215;At4;"TPSI family "
+216;"hsr omega transcripts";"hsr(omega) RNA, omega1-3 RNAs"
+217;"Pinci1 family RNAs";"None known"
+218;KRASP1;"None known"
+219;LOC285194;LSAMP-AS3
+220;AK023948;"None known"
+221;"RPS6KA2 antisense transcript";RPS6KA2AS
+222;Mrhl;"Meiotic recombination hotspot locus non-coding RNA"
+223;"Beta 2.7 RNA";"Beta2.7, TRL4 DE RNA, lncRNA2.7"
+224;"EBER1 and EBER2 RNAs";"None known"
+225;sfRNA;"Flavivirus 3' structured RNA"
+227;"roX1 and roX2";"None known"
+228;"CAR Intergenic 10";"Intergenic10, CR611911, AK055628"
+229;21A;"ncRNA 21A"
+230;rncs-1;"None known"
+231;"VAI and VAII RNAs";"VA RNA I and VA RNA II."
+232;HAR1B;HAR1R
+233;Sox2ot;"SOX2OT, Sox2dot"
+234;Adapt33;"5430416N02Rik (probable mouse homologue), linc1354"
+235;ICR1;"None known"
+236;PWR1;"None known"
+237;Dlx1as;"None known"
+238;npc536;"npcRNA 536"
+239;npc48;"npcRNA 48"
+240;"HSUR1 and HSUR2";"None known"
+241;Jpx;"Enox, NCRNA00183"
+242;lincRNA-RoR;"lincRNA-Regulator of Reprogramming
+<br>lincRNA-ST8SIA3"
+243;Dio3os;Dio3as
+244;lincRNA-SFMBT2;
+245;lincRNA-VLDLR;
+246;RTL;"TY1 CUT"
+247;GAL10-ncRNA;
+248;Zfas1;"Znfx1 antisense, 1500012F01Rik, NCRNA00275"
+249;Gtl2-as;"Gtl2 antisense, Meg3-as"
+250;Malat1-as;"Malat1 antisense, Neat2 antisense"
+251;TIR1axut;"TIR1 antisense Xrn1-sensitive unstable transcript "
+252;TPO1axut;"TPO1 antisense Xrn1-sensitive unstable transcript "
+253;SUC2uxut1-3;"SUC2uxut1
+SUC2uxut2
+SUC2uxut3"
+254;AK082072;linc-POLR3G-8
+255;Rmst;"Dmt2 (Dorso-medial telencephalon gene 2)"
+256;linc1242;linc-Enah
+257;linc1368;linc-Adamts9
+258;linc1609;"linc-Iqcg, AK160141, 1700007L15Rik"
+259;linc1610;"AK144852, G730013B05Rik, linc-Cblb"
+260;linc1582;"Gm2694, linc-LOC330820"
+261;linc1547;"Gm15055, linc-Evx1
+"
+262;"CDR1 AS";"CDR1 NAT, ciRS-7
+"
+263;linc1257;"Linc-Myo1g, Ak160548"
+264;BX118339;"Hs.112750, linc-MBOAT1-4: TCONS_00012107,  linc-MBOAT1-4: TCONS_00012678"
+265;SPRY4-IT1;AK024556
+266;Mistral;Mira
+267;PANDA;"P21 associated ncRNA DNA damage activated
+PANDA antisense RNA"
+268;Tip3;"Transcribed intergenic polycomb 3, AK050890, ENSMUSG00000092589"
+269;Tip1;"Transcribed intergenic polycomb 1"
+270;cyrano;"Zebrafish: linc-oip5, si:dkey-71p21.9, <br></br>
+Human: LOC729082, linc-NUSAP1-1, OIP5-AS1,<br></br>
+Mouse: 1700020I14Rik, linc1510"
+271;megamind;"Zebrafish: linc-birc6, linc-hhipl1
+<br></br>
+Human: BX093813, LOC100507043
+<br></br>
+Mouse: 2810011L19Rik"
+272;COLDAIR;"COLD ASSISTED INTRONIC NONCODING RNA"
+273;LINC00568;"Noncoding RNA activating1: ncRNA-a1, RP11-54A4.8, ENSG00000228126.1
+"
+274;KDM5B-AS1;"Noncoding RNA activating2: ncRNA-a2, KDM5B antisense RNA 1 (KDM5B-AS1)
+"
+275;CYP4A22-AS1;"Noncoding RNA activating3: ncRNA-a3, ENST00000444042.2
+"
+276;PDZK1IP1-AS1;"Noncoding RNA activating4: ncRNA-a4, PDZK1IP1 antisense RNA 1
+"
+277;LINC00570;"Noncoding RNA activating5: ncRNA-a5,
+
+"
+278;LOC100887755;"Noncoding RNA activating7: ncRNA-a7, ENST00000431460.1
+"
+279;linc-MD1;
+280;SUT719;
+281;"PTENP1 asRNAs";"PTENP1 asRNA alpha, PTENP1 asRNA beta, PTENP1 asRNA unspliced
+PTENpg1 asRNAs"
+282;"Sry circRNA";

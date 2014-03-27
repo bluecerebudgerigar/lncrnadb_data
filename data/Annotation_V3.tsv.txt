@@ -1,0 +1,114 @@
+TranscriptID	ncRNAName	Species	Accession	SeqID
+77	Air	Mus musculus	BY718621.1	1
+78	BC200	Homo sapiens	AF020057.2	2
+79	ANRIL	Homo sapiens	CB109081.1,DQ485453.1,AL354709.1,DQ485453.1,BC038540.1	3
+81	BACE1AS	Mus musculus;Homo sapiens;Homo sapiens;Mus musculus	AK078885.1;CB960709.1;FJ573250.1;FJ573254.1	5;6;7;8
+82	BC1	Mus musculus	M29340.1	9
+83	BORG	Homo sapiens	AF222981.1	10
+87	EGO	Homo sapiens	BC039547.1	13
+88	Gomafu	Homo sapiens;Mus musculus	DA213485.1,AB263414.1,BM677447.1;AC123795.4,AC123795.4,AC123795.4,AC123795.4,AC123795.4,AC123795.4,AC123795.4	14;15
+89	DHFR upstream transcripts	Homo sapiens	AC104467	16
+90	Evf2	Mus musculus; Homo sapiens	AC122240.4;ENST00000430027.2 	17;18
+91	Gadd7	Cricetulus longicaudatus	L40430.1	19
+92	GAS5	Homo sapiens	AL110141.1	20
+93	Malat1	Homo sapiens;Mus musculus	EF177381.1;EF177380.1	21;22
+94	mascRNA	Homo sapiens	FJ209302.1	23
+95	HAR1A	Homo sapiens	DQ860409.1	24
+96	H19	Homo sapiens;Mus musculus	AL546946.3,AL548405.3,BC040073.1;AK145379.1	25;26
+97	HOTAIR	Homo sapiens	DA567507.1,DQ926657.1,AK123741.1,DQ926657.1,AK123741.1,DQ926657.1,BF109906.1 	27
+98	HOTAIRM1	Homo sapiens	GQ479958	28
+101	Kcnq1ot1	Homo sapiens	AC021424.6,AC124055.6	31
+102	Khps1a	Rattus norvegicus	AB116666.1	32
+103	lincENC1	Mus musculus	XM_001477186.1	33
+104	MEG3	Homo sapiens	DB449068.1,BX161452.1,BQ270557.1,	34
+105	NEAT1	Homo sapiens;Homo sapiens;Mus musculus;Mus musculus	EF177379.1,AI590745.1;GQ859162;AK145725.1;GQ859163.1	35;36;37;38
+106	ncR-uPAR	Homo sapiens	AC025188.8	39
+107	Nkx2.2AS	Mus musculus	AK045921.1	40
+108	NRON	Mus musculus; Homo sapiens	AK042215;AC006443.1	41;42
+110	PCGEM1	Homo sapiens	AF223389.1	43
+111	PRINS	Homo sapiens	AK022045.1	44
+112	PINC	Mus musculus	DQ059755.1	45
+113	RepA transcript	Mus musculus	FJ361197.1	46
+129	lincRNA-Sox2	Mus musculus	BC051220.1	67
+130	lincRNA-Cox2	Mus musculus	AK144630.1	68
+132	Alpha 250/ Alpha 280	Homo sapiens;Homo Sapiens	AC008472.1;AC008472.1	70;71
+136	Ks-1	Apis mellifera	AB071139.1	75
+137	AncR-1	Apis mellifera	AB125322.1	76
+138	Rian	Mus musculus; Homo sapiens	AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5,AC152063.5;CA396130.1	77;78
+140	7SL	Homo sapiens	X04248.1	80
+142	Beta-globin transcripts	Homo sapiens;Homo sapiens	AY034469.1;AY034470.1;	82;83
+144	LXRBSV	Mus musculus;Mus musculus	EU869275.2;null	85;86
+145	Nespas	Homo sapiens;Mus musculus	AJ251759.1,DB067618.1,AJ251759.1,BF589977.1;AK153813.1	87;88
+146	LUST	Homo sapiens	EF470865.1	89
+148	Msx1as	Mus musculus	AC114671.14	91
+149	MEG9	Mus musculus	EU616813.1	92
+150	antiPeg11	Mus musculus	EU434921	93
+151	NDM29	Homo sapiens	null	94
+152	Beta-MHC antisense transcripts	Mus musculus	AK048126.1	95
+156	Pldi	Mus musculus	AC155711.14,AK007277.1	99
+157	bft	Drosophila melanogaster	AE014134	100
+158	IPS1	Arabidopsis thaliana	NM_180219	101
+163	p53 mRNA	Homo sapiens	DA932053.1,BC003596.1,X02469.1,AK223026.1,DQ186650.1	107
+164	NTT	Homo sapiens	U54776.1	108
+166	dUHGs	Drosophila melanogaster;Drosophila melanogaster;Drosophila melanogaster;Drosophila melanogaster;Drosophila melanogaster;Drosophila melanogaster;Drosophila melanogaster	NR_001754.1;NR_001637.1;NR_033155.1;NR_033156.1;NR_033158.1;NR_033162.1;NR_033163.1	110;111;112;113;114;115;116
+167	MSUR1	Mus musculus	AY248756.1	117
+171	Hoxa11as	Homo sapiens	BC025338.1,BI753022.1,BC025338.1,DA421792.1,BC025338.1	121
+172	Emx2os	Homo sapiens	AY117034.1,AC005871.3	122
+173	PR antisense transcripts	Homo sapiens	FJ515872.1	123
+175	HOTTIP	Mus musculus;Homo sapiens	BC046496.1;GU724873	125;126
+176	HOXA3as	Homo sapiens	BC035889.2	127
+177	HOXA6as	Homo sapiens	AK091933.1	128
+178	Otx2os1	Mus musculus;Homo sapiens	AK042665.1;BC041486.2,AL161757.4,BC041486.2,BC041486.2	129;130
+183	HULC	Homo sapiens	AY914050.1	133
+185	COOLAIR	Arabidopsis thaliana	GQ352646.1	136
+187	PTENP1	Homo sapiens	BY797336.2,AL356489.14,BC038293.2  	138
+190	7SK	Homo sapiens	AL162581.11	141
+192	dutA	Dictyostelium discoideum;Dictyostelium discoideum	D16417.1; NC_007090.3;	143;144
+200	B2 SINE RNA	Mus musculus		152
+201	DISC2	Homo sapiens	AF222981.1	153
+206	IGF2AS	Mus musculus	AC013548.13,AC013548.13,AC013548.13,AC013548.13	160
+213	meiRNA	Schizosaccharomyces pombe	D31852.1	167
+214	lincRNA-p21	Mus musculus	AK144811.1	168
+215	At4	Arabidopsis thaliana	AF055372.1	169
+216	hsr omega transcripts	Drosophila melanogaster	NR_002067.1	170
+217	Pinci1 family RNAs	Phytophthora infestans	EF091715.1	171
+218	KRASP1	Homo sapiens	K01912.1	172
+219	LOC285194	Homo sapiens	BC035185.2,BC112982.1,AC108687.3,BC112981.1,BC035185.2,AW082858.1,AW195910.1,	173
+220	AK023948	Homo sapiens	AK023948.1	174
+222	Mrhl	Mus musculus	AC122830.4	176
+223	Beta 2.7 RNA	Human herpesvirus 5	GU179001	177
+224	EBER1 and EBER2 RNAs	Human herpesvirus 4;Human herpesvirus 4	AJ507799.2;AJ507799.2	178;179
+228	CAR Intergenic 10	Homo sapiens	BD286031	185
+229	21A	Homo sapiens	AC084708	188
+232	HAR1B	Homo sapiens	DQ860410.1	192
+234	Adapt33	Cricetulus griseus;Mus musculus;Mus musculus	U29660.1;BX516247.1,AK017316.1;AK034784.1	195;196;197
+236	PWR1	Saccharomyces cerevisiae	Z38061.1	199
+237	Dlx1as	Mus musculus	AK132348.1	200
+238	npc536	Arabidopsis thaliana	BX818431.1	201
+239	npc48	Arabidopsis thaliana	AY090965.1	202
+241	Jpx	Homo sapiens;Mus musculus	BP871721.1,BC071776.1,AL139400.9,BC071776.1,AL627389.4,BC071776.1;AK137473.1	204;205
+242	lincRNA-RoR	Homo sapiens	HQ315778.1	206
+243	Dio3os	Mus musculus;Homo sapiens;Homo sapiens	AL591207.15,AL591207.15,AL591207.15,AL591207.15; AF469202.1; BC111049	207;208;209
+254	AK082072	Mus musculus;Homo sapiens;Homo sapiens	AK082072.1;null;null	221;222;223
+255	Rmst	Mus musculus	BB621570.1,AK086758.1,AK086758.1	224
+256	linc1242	Mus musculus;Mus musculus	null;null	225;226
+257	linc1368	Mus musculus;Mus musculus;Mus musculus	null;null;null;	227;228;229
+258	linc1609	Mus musculus;Mus musculus	AK160141.1;null	230;231
+259	linc1610	Mus musculus;Mus musculus;Mus musculus	null;null;null;	232;233;234
+260	linc1582	Mus musculus;Mus musculus	AK137304.1;null	235;236
+261	linc1547	Mus musculus	null	237
+262	CDR1 AS	Homo sapiens;Mus musculus	AL078639;BX322656	238;239
+263	linc1257	Mus musculus;Mus musculus	AK160548.1;AK032971.1	241;240
+264	BX118339	Homo sapiens	BX118339	242
+266	Mistral	Mus musculus	JN565285.1	246
+267	PANDA	Homo sapiens	JF803844.1	247
+270	cyrano	Danio rerio	JQ681267.1	250
+271	megamind	Danio rerio;Danio rerio;Homo sapiens;Homo sapiens;Mus musculus	JQ681268;null;BX093813.1;DA412350.1,AK091547.1,AK023027.1,BC016484.1;AC122013.4,BC059025.1	257;253;254;255;256
+272	COLDAIR	Arabidopsis thaliana	AY303835	258
+273	LINC00568	Homo sapiens	ENST00000416894	259
+274	KDM5B-AS1	Homo sapiens;Homo sapiens;Homo sapiens	ENST00000553157.1;ENST00000425295.1;ENST00000417262.1 	260;261;262
+276	PDZK1IP1-AS1	Homo sapiens	AL135960.1,AI792909.1,AL135960.1,AI651041.1	264
+277	LINC00570	Homo sapiens;Homo sapiens;Homo sapiens;Homo sapiens	ENST00000417473.2;ENST00000437795.1;ENST00000453100.1;ENST00000432665.1 	265;266;267;268
+278	LOC100887755	Homo sapiens	AL121712.27,BX118093.1,AI968488.1	269
+279	linc-MD1	Mus musculus	JN699052	270
+281	PTENP1 asRNAs	Homo sapiens	BX374997.2	272

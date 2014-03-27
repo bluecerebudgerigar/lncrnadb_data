@@ -1,0 +1,409 @@
+TranscriptID;speciesname;nredAccesionID;ucscBrowserLink
+117;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF092038"">AF092038</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr5:139,929,652-139,937,678"">hg19 chr5:139,929,652-139,937,678</a>"
+135;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:61,090,646-61,090,816"">hg19 chr7:61,090,646-61,090,816</a>"
+120;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK000625"">AK000625</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr22:31,365,634-31,375,380"">hg19 chr22:31,365,634-31,375,380</a>"
+97;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK123741"">AK123741</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr12:54,356,092-54,368,740"">hg19 chr12:54,356,092-54,368,740</a>"
+96;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK056774"">AK056774</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:2,016,406-2,019,065"">hg19 chr11:2,016,406-2,019,065</a>"
+104;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF119863"">AF119863</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:101,292,445-101,327,368"">hg19 chr14:101,292,445-101,327,368</a>"
+138;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:101,361,107-101,373,305"">hg19 chr14:101,361,107-101,373,305</a>"
+149;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK021527"">AK021527</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:101,508,671-101,541,625"">hg19 chr14:101,508,671-101,541,625</a>"
+150;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=hsa-mir-127"">hsa-mir-127</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:101,347,344-101,351,120"">hg19 chr14:101,347,344-101,351,120</a>"
+78;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr2:47,562,454-47,562,653"">hg19 chr2:47,562,454-47,562,653</a>"
+126;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK126832"">AK126832</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr2:45,147,332-45,166,338"">hg19 chr2:45,147,332-45,166,338</a>"
+142;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:5,304,740-5,305,929"">hg19 chr11:5,304,740-5,305,929</a>"
+153;"Homo sapiens (Human)";N/A;N/A
+154;"Homo sapiens (Human)";N/A;N/A
+101;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK123073"">AK123073</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:2,661,768-2,721,228"">hg19 chr11:2,661,768-2,721,228</a>"
+155;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK095849"">AK095849</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:62,619,460-62,623,360"">hg19 chr11:62,619,460-62,623,360</a>"
+92;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC038733"">BC038733</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr1:173,833,039-173,837,125"">hg19 chr1:173,833,039-173,837,125</a>"
+124;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr2:145,275,982-145,278,683"">hg19 chr2:145,275,982-145,278,683</a>"
+98;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC031342"">BC031342</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:27,135,743-27,139,584"">hg19 chr7:27,135,743-27,139,584</a>"
+159;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AJ006834"">AJ006834</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr1:28,832,455-28,837,404"">hg19 chr1:28,832,455-28,837,404</a>"
+160;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr6:86,386,725-86,388,451"">hg19 chr6:86,386,725-86,388,451</a>"
+161;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AY264285"">AY264285</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr8:67,834,165-67,837,777"">hg19 chr8:67,834,165-67,837,777</a>"
+162;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC036498"">BC036498</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr5:138,609,441-138,618,873"">hg19 chr5:138,609,441-138,618,873</a>"
+106;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr5:76,007,763-76,008,686"">hg19 chr5:76,007,763-76,008,686</a>"
+108;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=NR_045006"">NR_045006</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr9:129170054-129172783"">hg19 chr9:129170054-129172783</a>"
+164;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr6:136,265,389-136,282,959"">hg19 chr6:136,265,389-136,282,959</a>"
+165;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:65,193,526-65,194,002"">hg19 chr11:65,193,526-65,194,002</a>"
+169;"Homo sapiens (Human)";N/A;N/A
+145;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr20:57,393,973-57,425,958"">hg19 chr20:57,393,973-57,425,958</a>"
+170;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:32,457,285-32,461,620"">hg19 chr11:32,457,285-32,461,620</a>"
+171;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC025338"">BC025338</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:27,224,136-27,228,912"">hg19 chr7:27,224,136-27,228,912</a>"
+148;"Homo sapiens (Human)";N/A;NULL
+173;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:100,999,115-101,069,639"">hg19 chr11:100,999,115-101,069,639</a>"
+84;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:69,453,875-69,455,874"">hg19 chr11:69,453,875-69,455,874</a>"
+172;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AY117034"">AY117034</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr10:119,243,805-119,304,579"">hg19 chr10:119,243,805-119,304,579</a>"
+176;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC035889"">BC035889</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:27,161,538-27,168,378"">hg19 chr7:27,161,538-27,168,378</a>"
+177;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=uc003syp.1"">uc003syp.1</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:27,186,782-27,193,904"">hg19 chr7:27,186,782-27,193,904</a>"
+188;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=uc003gqj.1"">uc003gqj.1</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr4:21,844,964-21,854,811"">hg19 chr4:21,844,964-21,854,811</a>"
+196;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr3:176,359,910-176,360,742"">hg19 chr3:176,359,910-176,360,742</a>"
+197;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:50,453,732-50,454,791"">hg19 chr11:50,453,732-50,454,791</a>"
+198;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr6:165,533,548-165,533,788"">hg19 chr6:165,533,548-165,533,788</a>"
+105;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF001893"">AF001893</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:65,190,269-65,213,011"">hg19 chr11:65,190,269-65,213,011</a>"
+132;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr5:149,828,969-149,829,248"">hg19 chr5:149,828,969-149,829,248</a>"
+182;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr17:60,337,357-60,341,299"">hg19 chr17:60,337,357-60,341,299</a>"
+203;"Homo sapiens (Human)";N/A;N/A
+77;"Homo sapiens (Human)";N/A;N/A
+121;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=DQ249310"">DQ249310</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr19:15,939,771-15,947,051"">hg19 chr19:15,939,771-15,947,051</a>"
+201;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr1:231,945,691-231,960,682"">hg19 chr1:231,945,691-231,960,682</a>"
+87;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC039547"">BC039547</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr3:4,790,880-4,793,274"">hg19 chr3:4,790,880-4,793,274</a>"
+88;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AB263414"">AB263414</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr22:27,042,392-27,072,440"">hg19 chr22:27,042,392-27,072,440</a>"
+131;"Homo sapiens (Human)";N/A;N/A
+187;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr9:33,673,502-33,677,418"">hg19 chr9:33,673,502-33,677,418</a>"
+218;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr6:54,635,169-54,636,037"">hg19 chr6:54,635,169-54,636,037</a>"
+178;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC041486"">BC041486</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:57,279,901-57,397,550"">hg19 chr14:57,279,901-57,397,550</a>"
+147;"Homo sapiens (Human)";N/A;N/A
+206;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:2,161,737-2,169,894"">hg19 chr11:2,161,737-2,169,894</a>"
+214;"Homo sapiens (Human)";N/A;N/A
+163;"Homo sapiens (Human)";NULL;NULL
+229;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr8:123,704,461-123,704,784"">hg19 chr8:123,704,461-123,704,784</a>"
+100;"Homo sapiens (Human)";N/A;N/A
+95;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC035016"">BC035016</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr20:61,732,644-61,735,737"">hg19 chr20:61,732,644-61,735,737</a>"
+232;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=DQ860410"">DQ860410</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr20:61,726,845-61,733,671"">hg19 chr20:61,726,845-61,733,671</a>"
+183;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr6:8,652,369-8,654,079"">hg19 chr6:8,652,369-8,654,079</a>"
+93;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BX538238"">BX538238</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:65,265,233-65,273,939"">hg19 chr11:65,265,233-65,273,939</a>"
+127;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF052108"">AF052108</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr8:9,757,574-9,760,839"">hg19 chr8:9,757,574-9,760,839</a>"
+94;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:65,273,588-65,273,645"">hg19 chr11:65,273,588-65,273,645</a>"
+189;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC041074"">BC041074</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:22,942,453-23,016,567"">hg19 chr14:22,942,453-23,016,567</a>"
+220;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK023948"">AK023948</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr8:134,067,204-134,070,012"">hg19 chr8:134,067,204-134,070,012</a>"
+233;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK022826"">AK022826</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr3:181,328,151-181,459,005"">hg19 chr3:181,328,151-181,459,005</a>"
+81;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=CB960709"">CB960709</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:117,162,062-117,162,857"">hg19 chr11:117,162,062-117,162,857</a>"
+79;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC038540"">BC038540</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr9:21,994,790-22,121,093"">hg19 chr9:21,994,790-22,121,093</a>"
+125;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK090747"">AK090747</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:23,982,558-24,013,485"">hg19 chr14:23,982,558-24,013,485</a>"
+228;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=uc001ljj.1_1632"">uc001ljj.1_1632</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr10:127,700,961-127,703,160"">hg19 chr10:127,700,961-127,703,160</a>"
+89;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr5:79,950,179-79,950,765"">hg19 chr5:79,950,179-79,950,765</a>"
+90;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK091367"">AK091367</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:96,594,838-96,643,377"">hg19 chr7:96,594,838-96,643,377</a>"
+207;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=CR626616"">CR626616</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr15:25,361,692-25,367,623"">hg19 chr15:25,361,692-25,367,623</a>"
+219;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC104179"">BC104179</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr3:116,428,625-116,442,428"">hg19 chr3:116,428,625-116,442,428</a>"
+146;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr3:50,137,036-50,138,421"">hg19 chr3:50,137,036-50,138,421</a>"
+151;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr11:8,960,582-8,960,712"">hg19 chr11:8,960,582-8,960,712</a>"
+110;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF223389"">AF223389</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr2:193,614,571-193,641,625"">hg19 chr2:193,614,571-193,641,625</a>"
+111;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK022045"">AK022045</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr10:24,536,054-24,544,975"">hg19 chr10:24,536,054-24,544,975</a>"
+114;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr10:90,751,182-90,752,732"">hg19 chr10:90,751,182-90,752,732</a>"
+115;"Homo sapiens (Human)";N/A;N/A
+116;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF126749"">AF126749</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr13:70,681,345-70,713,885"">hg19 chr13:70,681,345-70,713,885</a>"
+204;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=uc003vim.1"">uc003vim.1</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:116,592,501-116,594,388"">hg19 chr7:116,592,501-116,594,388</a>"
+204;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF400045"">AF400045</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:116,712,481-116,785,612"">hg19 chr7:116,712,481-116,785,612</a>"
+204;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF234882"">AF234882</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:116,822,735-116,849,991"">hg19 chr7:116,822,735-116,849,991</a>"
+204;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:116,594,673-116,608,628"">hg19 chr7:116,594,673-116,608,628</a>"
+202;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK124066"">AK124066</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr12:68,383,225-68,415,107"">hg19 chr12:68,383,225-68,415,107</a>"
+119;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chrX:73,012,040-73,049,066"">hg19 chrX:73,012,040-73,049,066</a>"
+190;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr6:52,860,418-52,860,749"">hg19 chr6:52,860,418-52,860,749</a>"
+140;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:50,053,297-50,053,596"">hg19 chr14:50,053,297-50,053,596</a>"
+208;"Homo sapiens (Human)";N/A;N/A
+221;"Homo sapiens (Human)";NULL;NULL
+122;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BX648323"">BX648323</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chrX:73,040,495-73,072,588"">hg19 chrX:73,040,495-73,072,588</a>"
+123;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:148,684,228-148,684,340"">hg19 chr7:148,684,228-148,684,340</a>"
+118;"Homo sapiens (Human)";NULL;NULL
+184;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr19:48,437,438-48,437,559"">hg19 chr19:48,437,438-48,437,559</a>"
+241;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chrX:73164159-73290217"">hg19 chrX:73164159-73290217</a>"
+243;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF469203"">AF469203</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:102,018,560-102,026,740"">hg19 chr14:102,018,560-102,026,740</a>"
+243;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF305836"">AF305836</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:102,018,560-102,026,740"">hg19 chr14:102,018,560-102,026,740</a>"
+242;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr18:54,721,802-54,739,350"">hg19 chr18:54,721,802-54,739,350</a>"
+244;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr10:6,779,694-6,889,494"">hg19 chr10:6,779,694-6,889,494</a>"
+245;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr9:2,207,775-2,298,675"">hg19 chr9:2,207,775-2,298,675</a>"
+102;"Homo sapiens (Human)";NULL;NULL
+175;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK093987"">AK093987</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:27,238,193-27,246,878"">hg19 chr7:27,238,193-27,246,878</a>"
+248;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AY513722"">AY513722</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr20:47,894,715-47,905,797"">hg19 chr20:47,894,715-47,905,797</a>"
+254;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr5:87,686,219-87,732,860"">hg19 chr5:87,686,219-87,732,860</a>"
+254;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr5:87,688,109-87,732,764"">hg19 chr5:87,688,109-87,732,764</a>"
+262;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chrX:139,865,328-139,866,829"">hg19 chrX:139,865,328-139,866,829</a>"
+264;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr6:21,486,545-21,512,123"">hg19 chr6:21,486,545-21,512,123</a>"
+265;"Homo sapiens (Human)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK024556"">AK024556</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr5:141,697,199-141,697,887"">hg19 chr5:141,697,199-141,697,887</a>"
+267;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr6:36,641,398-36,642,903"">hg19 chr6:36,641,398-36,642,903</a>"
+270;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr15:41,576,202-41,598,732"">hg19 chr15:41,576,202-41,598,732</a>"
+123;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:148,638,580-148,638,658"">hg19 chr7:148,638,580-148,638,658</a>"
+123;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:148,680,847-148,680,948"">hg19 chr7:148,680,847-148,680,948</a>"
+123;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr7:148,660,407-148,660,502"">hg19 chr7:148,660,407-148,660,502</a>"
+271;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr2:32,782,587-32,799,885"">hg19 chr2:32,782,587-32,799,885</a>"
+271;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr14:96,343,109-96,391,908"">hg19 chr14:96,343,109-96,391,908</a>"
+273;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr1:150488233-150490508"">hg19 chr1:150488233-150490508</a>"
+274;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr1:202,780,081-202,781,284"">hg19 chr1:202,780,081-202,781,284</a>"
+275;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr1:47,562,325-47,644,943"">hg19 chr1:47,562,325-47,644,943</a>"
+276;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr1:47,644,922-47,646,011"">hg19 chr1:47,644,922-47,646,011</a>"
+277;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr2:11534107-11543203"">hg19 chr2:11534107-11543203</a>"
+278;"Homo sapiens (Human)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&position=chr20:48657244-48658166"">hg19 chr20:48657244-48658166</a>"
+279;"Homo sapiens (Human)";NULL;NULL
+281;"Homo sapiens (Human)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg&position=chr9:33,677,266-33,688,009"">hg chr9:33,677,266-33,688,009</a>"
+99;"Homo sapiens (Human)";NULL;NULL
+240;"Homo sapiens (Human)";NULL;NULL
+117;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF092039"">AF092039</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr18:36,826,841-36,829,965"">mm9 chr18:36,826,841-36,829,965</a>"
+120;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK048213"">AK048213</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr11:3,539,797-3,548,811"">mm9 chr11:3,539,797-3,548,811</a>"
+97;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK035706"">AK035706</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr15:102,774,493-102,778,161"">mm9 chr15:102,774,493-102,778,161</a>"
+96;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK003142"">AK003142</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr7:149,761,437-149,764,051"">mm9 chr7:149,761,437-149,764,051</a>"
+138;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AF498300"">AF498300</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr12:110,842,155-110,899,921"">mm9 chr12:110,842,155-110,899,921</a>"
+104;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC048191"">BC048191</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr12:110,779,206-110,809,939"">mm9 chr12:110,779,206-110,809,939</a>"
+149;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AJ517767"">AJ517767</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr12:110,967,974-110,987,668"">mm9 chr12:110,967,974-110,987,668</a>"
+150;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr12:110,828,763-110,831,063"">mm9 chr12:110,828,763-110,831,063</a>"
+82;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr7:100,808,784-100,808,949"">mm9 chr7:100,808,784-100,808,949</a>"
+77;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK013242"">AK013242</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr17:12,934,177-13,052,750"">mm9 chr17:12,934,177-13,052,750</a>"
+126;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK044330"">AK044330</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr17:86,006,698-86,018,751"">mm9 chr17:86,006,698-86,018,751</a>"
+142;"Mus musculus (Mouse)";NULL;NULL
+83;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=CGEN_MOUSE_3007259_1"">CGEN_MOUSE_3007259_1</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr15:38,643,238-38,658,275"">mm9 chr15:38,643,238-38,658,275</a>"
+131;"Mus musculus (Mouse)";N/A;N/A
+153;"Mus musculus (Mouse)";N/A;N/A
+154;"Mus musculus (Mouse)";N/A;N/A
+101;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK051604"">AK051604</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr7:150,391,857-150,482,452"">mm9 chr7:150,391,857-150,482,452</a>"
+155;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK036616"">AK036616</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr19:8,797,977-8,800,816"">mm9 chr19:8,797,977-8,800,816</a>"
+92;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC004622"">BC004622</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr1:162,965,297-162,968,668"">mm9 chr1:162,965,297-162,968,668</a>"
+156;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK007277"">AK007277</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr10:60,390,974-60,400,880"">mm9 chr10:60,390,974-60,400,880</a>"
+124;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr2:44,966,658-44,969,604"">mm9 chr2:44,966,658-44,969,604</a>"
+98;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr6:52,108,521-52,112,282"">mm9 chr6:52,108,521-52,112,282</a>"
+159;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AJ006837"">AJ006837</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr4:131,907,848-131,909,601"">mm9 chr4:131,907,848-131,909,601</a>"
+161;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK003573"">AK003573</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr1:9,932,040-9,934,199"">mm9 chr1:9,932,040-9,934,199</a>"
+112;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=DQ059755"">DQ059755</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr1:73,437,959-73,454,143"">mm9 chr1:73,437,959-73,454,143</a>"
+160;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC032970"">BC032970</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr9:88,415,949-88,417,846"">mm9 chr9:88,415,949-88,417,846</a>"
+167;"Mus musculus (Mouse)";N/A;N/A
+145;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr2:174,106,738-174,120,937"">mm9 chr2:174,106,738-174,120,937</a>"
+170;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr2:104,916,695-104,966,667"">mm9 chr2:104,916,695-104,966,667</a>"
+171;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK133929"">AK133929</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr6:52,195,242-52,199,768"">mm9 chr6:52,195,242-52,199,768</a>"
+148;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=NCRNA_2103"">NCRNA_2103</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr5:38,211,803-38,213,990"">mm9 chr5:38,211,803-38,213,990</a>"
+172;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK033011"">AK033011</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr19:59,499,594-59,533,125"">mm9 chr19:59,499,594-59,533,125</a>"
+175;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK033508"">AK033508</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr6:52,212,769-52,217,597"">mm9 chr6:52,212,769-52,217,597</a>"
+189;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr14:54,771,987-54,773,894"">mm9 chr14:54,771,987-54,773,894</a>"
+105;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK018202"">AK018202</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr19:5,824,710-5,845,478"">mm9 chr19:5,824,710-5,845,478</a>"
+200;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr18:37,205,741-37,205,917"">mm9 chr18:37,205,741-37,205,917</a>"
+128;"Mus musculus (Mouse)";N/A;N/A
+88;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK053540, AK028326"">AK053540</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr5:112,642,248-112,657,968"">mm9 chr5:112,642,248-112,657,968</a>"
+178;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK042665"">AK042665</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr14:49,288,963-49,413,023"">mm9 chr14:49,288,963-49,413,023</a>"
+113;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK039861"">AK039861</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chrX:100,676,608-100,678,237"">mm9 chrX:100,676,608-100,678,237</a>"
+127;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=RP_050419_03_C12"">RP_050419_03_C12</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr14:65,206,952-65,212,798"">mm9 chr14:65,206,952-65,212,798</a>"
+147;"Mus musculus (Mouse)";N/A;N/A
+180;"Mus musculus (Mouse)";N/A;N/A
+206;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AB030734"">AB030734</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr7:149,845,598-149,856,261"">mm9 chr7:149,845,598-149,856,261</a>"
+100;"Mus musculus (Mouse)";N/A;N/A
+214;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK144811"">AK144811</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr17:29,194,419-29,215,906"">mm9 chr17:29,194,419-29,215,906</a>"
+93;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK141413"">AK141413</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr19:5,795,690-5,802,671"">mm9 chr19:5,795,690-5,802,671</a>"
+103;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC065997"">BC065997</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr13:98,252,910-98,259,655"">mm9 chr13:98,252,910-98,259,655</a>"
+130;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr1:152,006,173-152,012,078"">mm9 chr1:152,006,173-152,012,078</a>"
+129;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC051220"">BC051220</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr3:34,670,997-34,681,268"">mm9 chr3:34,670,997-34,681,268</a>"
+94;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr19:5,795,924-5,795,981"">mm9 chr19:5,795,924-5,795,981</a>"
+162;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK004333"">AK004333</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr18:35,713,064-35,717,970"">mm9 chr18:35,713,064-35,717,970</a>"
+233;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC057611"">BC057611</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr3:34,459,303-34,576,915"">mm9 chr3:34,459,303-34,576,915</a>"
+81;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK078885"">AK078885</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr9:45,664,854-45,666,107"">mm9 chr9:45,664,854-45,666,107</a>"
+88;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK028326"">AK028326</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr5:112,642,248-112,657,968"">mm9 chr5:112,642,248-112,657,968</a>"
+234;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK017316"">AK017316</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr5:100,849,861-100,858,535"">mm9 chr5:100,849,861-100,858,535</a>"
+125;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=BC096537"">BC096537</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr14:55,671,907-55,703,972"">mm9 chr14:55,671,907-55,703,972</a>"
+90;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK032537"">AK032537</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr6:6,770,192-6,819,533"">mm9 chr6:6,770,192-6,819,533</a>"
+144;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr7:51,805,355-51,809,271"">mm9 chr7:51,805,355-51,809,271</a>"
+107;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK045921"">AK045921</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr2:147,009,819-147,157,417"">mm9 chr2:147,009,819-147,157,417</a>"
+108;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK037308"">AK037308</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr2:33,661,336-33,669,111"">mm9 chr2:33,661,336-33,669,111</a>"
+116;"Mus musculus (Mouse)";NULL;NULL
+202;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr10:117,939,091-117,993,581"">mm9 chr10:117,939,091-117,993,581</a>"
+119;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chrX:100,626,856-100,680,296"">mm9 chrX:100,626,856-100,680,296</a>"
+143;"Mus musculus (Mouse)";NULL;NULL
+222;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr8:88,518,143-88,520,561"">mm9 chr8:88,518,143-88,520,561</a>"
+237;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK138311"">AK138311</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr2:71,368,695-71,375,948"">mm9 chr2:71,368,695-71,375,948</a>"
+122;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=L04961"">L04961</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chrX:100,655,712-100,678,572"">mm9 chrX:100,655,712-100,678,572</a>"
+123;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr6:47,738,069-47,738,179"">mm9 chr6:47,738,069-47,738,179</a>"
+118;"Mus musculus (Mouse)";NULL;NULL
+241;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK137473"">AK137473</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chrX:100688915-100701764"">mm9 chrX:100688915-100701764</a>"
+243;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AY077457"">AY077457</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr12:111,513,595-111,517,534"">mm9 chr12:111,513,595-111,517,534</a>"
+245;"Mus musculus (Mouse)";NULL;NULL
+248;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK005231"">AK005231</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr2:166,888,434-166,891,362"">mm9 chr2:166,888,434-166,891,362</a>"
+249;"Mus musculus (Mouse)";N/A;N/A
+250;"Mus musculus (Mouse)";N/A;N/A
+254;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK082072"">AK082072</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr13:84,164,908-84,204,377"">mm9 chr13:84,164,908-84,204,377</a>"
+255;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK086758"">AK086758</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr10:91,544,491-91,627,923"">mm9 chr10:91,544,491-91,627,923</a>"
+256;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr1:183,957,415-183,961,340"">mm9 chr1:183,957,415-183,961,340</a>"
+256;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr1:183,957,415-183,963,763"">mm9 chr1:183,957,415-183,963,763</a>"
+257;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr6:93576998-93598520"">mm9 chr6:93576998-93598520</a>"
+258;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK160141"">AK160141</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr16:33,373,392-33,380,813"">mm9 chr16:33,373,392-33,380,813</a>"
+259;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK144624"">AK144624</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr16:50,526,343-50,559,543"">mm9 chr16:50,526,343-50,559,543</a>"
+260;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK144513"">AK144513</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr8:89,996,711-90,049,453"">mm9 chr8:89,996,711-90,049,453</a>"
+261;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr6:52,052,908-52,065,131"">mm9 chr6:52,052,908-52,065,131</a>"
+262;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&position=chrX:61,183,236-61,186,179"">mm10 chrX:61,183,236-61,186,179</a>"
+207;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK045353"">AK045353</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr7:66,874,528-66,934,248"">mm9 chr7:66,874,528-66,934,248</a>"
+263;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK160548"">AK160548</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr11:6,424,545-6,428,747"">mm9 chr11:6,424,545-6,428,747</a>"
+266;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr6:52,164,490-52,165,287"">mm9 chr6:52,164,490-52,165,287</a>"
+268;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr12:57,710,600-57,711,463"">mm9 chr12:57,710,600-57,711,463</a>"
+269;"Mus musculus (Mouse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr7:147,133,623-147,134,617"">mm9 chr7:147,133,623-147,134,617</a>"
+270;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK147270"">AK147270</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr2:119,420,031-119,433,358"">mm9 chr2:119,420,031-119,433,358</a>"
+271;"Mus musculus (Mouse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=AK012713"">AK012713</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr12:106,574,804-106,622,142"">mm9 chr12:106,574,804-106,622,142</a>"
+279;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chr1:20,659,963-20,673,039"">mm9 chr1:20,659,963-20,673,039</a>"
+282;"Mus musculus (Mouse)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&position=chrY:1,918,440-1,919,671"">mm9 chrY:1,918,440-1,919,671</a>"
+117;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr18:29,306,556-29,309,970"">rn4 chr18:29,306,556-29,309,970</a>"
+120;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr14:84,283,176-84,293,598"">rn4 chr14:84,283,176-84,293,598</a>"
+97;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr7:141,707,460-141,711,096"">rn4 chr7:141,707,460-141,711,096</a>"
+96;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr1:202,822,926-202,825,601"">rn4 chr1:202,822,926-202,825,601</a>"
+139;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr6:134,198,113-134,328,710"">rn4 chr6:134,198,113-134,328,710</a>"
+149;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr6:134,410,685-134,431,542"">rn4 chr6:134,410,685-134,431,542</a>"
+150;"Rattus norvegicus (Rat)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr6:134,182,037-134,187,063"">rn4 chr6:134,182,037-134,187,063</a>"
+82;"Rattus norvegicus (Rat)";N/A;N/A
+152;"Rattus norvegicus (Rat)";NULL;NULL
+161;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr5:8,840,469-8,842,569"">rn4 chr5:8,840,469-8,842,569</a>"
+112;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr9:72,706,829-72,723,152"">rn4 chr9:72,706,829-72,723,152</a>"
+105;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr1:208,476,553-208,479,839"">rn4 chr1:208,476,553-208,479,839</a>"
+200;"Rattus norvegicus (Rat)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";N/A
+92;"Rattus norvegicus (Rat)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr13:76,594,781-76,598,102"">rn4 chr13:76,594,781-76,598,102</a>"
+98;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr4:80,458,677-80,462,167"">rn4 chr4:80,458,677-80,462,167</a>"
+125;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr15:33,178,036-33,180,752"">rn4 chr15:33,178,036-33,180,752</a>"
+102;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr10:106,639,811-106,641,100"">rn4 chr10:106,639,811-106,641,100</a>"
+90;"Rattus norvegicus (Rat)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr4:31,722,073-31,770,275"">rn4 chr4:31,722,073-31,770,275</a>"
+127;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr15:43,941,969-43,947,942"">rn4 chr15:43,941,969-43,947,942</a>"
+248;"Rattus norvegicus (Rat)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chr3:158,214,340-158,216,912"">rn4 chr3:158,214,340-158,216,912</a>"
+122;"Rattus norvegicus (Rat)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rn4&position=chrX:91,445,506-91,468,415"">rn4 chrX:91,445,506-91,468,415</a>"
+117;"Bos taurus (Cattle)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&position=chr7:51,046,147-51,052,115"">bosTau4 chr7:51,046,147-51,052,115</a>"
+120;"Bos taurus (Cattle)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&position=chr17:73,314,664-73,324,437"">bosTau4 chr17:73,314,664-73,324,437</a>"
+96;"Bos taurus (Cattle)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&position=chr29:51,364,542-51,366,914"">bosTau4 chr29:51,364,542-51,366,914</a>"
+105;"Bos taurus (Cattle)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&position=chr29:45,474,755-45,478,113"">bosTau4 chr29:45,474,755-45,478,113</a>"
+150;"Bos taurus (Cattle)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&position=chr21:65,866,204-65,870,198"">bosTau4 chr21:65,866,204-65,870,198</a>"
+95;"Bos taurus (Cattle)";N/A;N/A
+122;"Bos taurus (Cattle)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&position=chrX:47,180,022-47,216,556"">bosTau4 chrX:47,180,022-47,216,556</a>"
+248;"Bos taurus (Cattle)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=bosTau4&position=chr13:78,388,806-78,391,538"">bosTau4 chr13:78,388,806-78,391,538</a>"
+117;"Pan troglodytes (Chimpanzee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&position=chr5:142,305,215-142,313,257"">panTro2 chr5:142,305,215-142,313,257</a>"
+97;"Pan troglodytes (Chimpanzee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&position=chr12:35,582,642-35,589,071"">panTro2 chr12:35,582,642-35,589,071</a>"
+78;"Pan troglodytes (Chimpanzee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&position=chr2a:48,471,965-48,472,169"">panTro2 chr2a:48,471,965-48,472,169</a>"
+182;"Pan troglodytes (Chimpanzee)";N/A;N/A
+206;"Pan troglodytes (Chimpanzee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&position=chr11:2,189,187-2,198,328"">panTro2 chr11:2,189,187-2,198,328</a>"
+95;"Pan troglodytes (Chimpanzee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&position=chr20:61,021,461-61,025,542"">panTro2 chr20:61,021,461-61,025,542</a>"
+232;"Pan troglodytes (Chimpanzee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&position=chr20:61,015,902-61,023,528"">panTro2 chr20:61,015,902-61,023,528</a>"
+183;"Pan troglodytes (Chimpanzee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&position=chr6:8,792,505-8,794,144"">panTro2 chr6:8,792,505-8,794,144</a>"
+96;"Pan troglodytes (Chimpanzee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro2&position=chr11:2,043,402-2,044,645"">panTro2 chr11:2,043,402-2,044,645</a>"
+122;"Pan troglodytes (Chimpanzee)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=panTro3&position=chrX:73,614,734-73,636,256"">panTro3 chrX:73,614,734-73,636,256</a>"
+134;"Xenopus laevis (African clawed frog)";N/A;N/A
+133;"Xenopus laevis (African clawed frog)";N/A;N/A
+233;"Xenopus laevis (African clawed frog)";NULL;NULL
+123;"Xenopus laevis (African clawed frog)";NULL;NULL
+92;"Gallus Gallus (Chicken)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=galGal3&position=chr8:7,728,043-7,735,232"">galGal3 chr8:7,728,043-7,735,232</a>"
+199;"Gallus Gallus (Chicken)";N/A;N/A
+186;"Gallus Gallus (Chicken)";N/A;N/A
+88;"Gallus Gallus (Chicken)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=galGal3&position=chr15:7,407,646-7,412,003"">galGal3 chr15:7,407,646-7,412,003</a>"
+233;"Gallus Gallus (Chicken)";NULL;NULL
+123;"Gallus Gallus (Chicken)";NULL;NULL
+147;"Danio rerio (Zebrafish)";N/A;N/A
+233;"Danio rerio (Zebrafish)";NULL;NULL
+118;"Danio rerio (Zebrafish)";NULL;NULL
+123;"Danio rerio (Zebrafish)";NULL;NULL
+93;"Danio rerio (Zebrafish)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=danRer7&position=chr14:48,566,202-48,573,730"">danRer7 chr14:48,566,202-48,573,730</a>"
+270;"Danio rerio (Zebrafish)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=danRer7&position=chr13:33,484,735-33,491,213"">danRer7 chr13:33,484,735-33,491,213</a>"
+271;"Danio rerio (Zebrafish)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=danRer7&position=chr17:22,517,187-22,519,802"">danRer7 chr17:22,517,187-22,519,802</a>"
+271;"Danio rerio (Zebrafish)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=danRer7&position=chr18:47976227-48008414"">danRer7 chr18:47976227-48008414</a>"
+157;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chr2L:11,956,221-11,971,094"">dm3 chr2L:11,956,221-11,971,094</a>"
+166;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chr2R:13,586,602-13,590,826"">dm3 chr2R:13,586,602-13,590,826</a>"
+216;"Drosophila melanogaster (Fruit fly)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chr3R:17,122,345-17,124,246"">dm3 chr3R:17,122,345-17,124,246</a>"
+227;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chrX:3,752,973-3,756,720"">dm3 chrX:3,752,973-3,756,720</a>"
+227;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chrX:11,473,184-11,474,467"">dm3 chrX:11,473,184-11,474,467</a>"
+166;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chr2L:9,893,806-9,895,003"">dm3 chr2L:9,893,806-9,895,003</a>"
+166;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chr2L:20,647,533-20,648,845"">dm3 chr2L:20,647,533-20,648,845</a>"
+166;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chr2R:4,982,803-4,984,817"">dm3 chr2R:4,982,803-4,984,817</a>"
+166;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chr2R:10,509,111-10,512,009"">dm3 chr2R:10,509,111-10,512,009</a>"
+166;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chr3L:1,666,288-1,667,307"">dm3 chr3L:1,666,288-1,667,307</a>"
+166;"Drosophila melanogaster (Fruit fly)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&position=chr3L:20,446,393-20,447,830"">dm3 chr3L:20,446,393-20,447,830</a>"
+120;"Canis familiaris (Dog)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&position=chr26:27,024,209-27,034,016"">canFam2 chr26:27,024,209-27,034,016</a>"
+97;"Canis familiaris (Dog)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&position=chr27:4,295,507-4,301,867"">canFam2 chr27:4,295,507-4,301,867</a>"
+96;"Canis familiaris (Dog)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&position=chr18:49,228,076-49,230,776"">canFam2 chr18:49,228,076-49,230,776</a>"
+150;"Canis familiaris (Dog)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&position=chr8:72,143,292-72,151,777"">canFam2 chr8:72,143,292-72,151,777</a>"
+161;"Canis familiaris (Dog)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&position=chr29:19,464,036-19,467,218"">canFam2 chr29:19,464,036-19,467,218</a>"
+105;"Canis familiaris (Dog)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&position=chr18:54,790,920-54,794,370"">canFam2 chr18:54,790,920-54,794,370</a>"
+95;"Canis familiaris (Dog)";N/A;N/A
+93;"Canis familiaris (Dog)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&position=chr18:54,725,564-54,732,921"">canFam2 chr18:54,725,564-54,732,921</a>"
+94;"Canis familiaris (Dog)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=canFam2&position=chr18:54,725,738-54,725,785"">canFam2 chr18:54,725,738-54,725,785</a>"
+122;"Canis familiaris (Dog)";NULL;NULL
+97;"Macaca mulatta  (Rhesus macaque)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rheMac2&position=chr11:51,060,391-51,066,832"">rheMac2 chr11:51,060,391-51,066,832</a>"
+96;"Macaca mulatta  (Rhesus macaque)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rheMac2&position=chr14:1,906,519-1,909,153"">rheMac2 chr14:1,906,519-1,909,153</a>"
+78;"Macaca mulatta  (Rhesus macaque)";N/A;N/A
+182;"Macaca mulatta  (Rhesus macaque)";N/A;N/A
+183;"Macaca mulatta  (Rhesus macaque)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rheMac2&position=chr4:8,590,149-8,591,785"">rheMac2 chr4:8,590,149-8,591,785</a>"
+170;"Macaca mulatta  (Rhesus macaque)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=rheMac2&position=chr14:39,347,674-39,352,017"">rheMac2 chr14:39,347,674-39,352,017</a>"
+136;"Apis mellifera (Honeybee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=apiMel2&position=Group1:13,193,409-13,210,806"">apiMel2 Group1:13,193,409-13,210,806</a>"
+137;"Apis mellifera (Honeybee)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=apiMel2&position=Group5:12,900,340-12,908,017"">apiMel2 Group5:12,900,340-12,908,017</a>"
+96;"Monodelphis domestica (Short tailed grey opossum)";N/A;N/A
+93;"Monodelphis domestica (Short tailed grey opossum)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=monDom5&position=chr8:13,576,736-13,578,811"">monDom5 chr8:13,576,736-13,578,811</a>"
+254;"Monodelphis domestica (Short tailed grey opossum)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=monDom5&position=chr3:216,016,514-216,082,114"">monDom5 chr3:216,016,514-216,082,114</a>"
+150;"Equus caballus (Horse)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=equCab2&position=chr24:42,745,007-42,748,761"">equCab2 chr24:42,745,007-42,748,761</a>"
+96;"Equus caballus (Horse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=equCab2&position=chr12:30,527,700-30,530,105"">equCab2 chr12:30,527,700-30,530,105</a>"
+93;"Equus caballus (Horse)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=equCab2&position=chr12:25,648,499-25,655,705"">equCab2 chr12:25,648,499-25,655,705</a>"
+96;"Macropus eugenii (Tammar wallaby)";N/A;N/A
+150;"Ovis aries (Sheep)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";N/A
+104;"Ovis aries (Sheep)";N/A;N/A
+149;"Ovis aries (Sheep)";N/A;N/A
+138;"Ovis aries (Sheep)";N/A;N/A
+122;"Ovis aries (Sheep)";NULL;NULL
+150;"Cavia porcellus (Guinea pig)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=cavPor3&position=scaffold_111:951,444-955,421"">cavPor3 scaffold_111:951,444-955,421</a>"
+82;"Cavia porcellus (Guinea pig)";N/A;N/A
+188;"Sus scrofa (Pig)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=susScr2&position=chr8:13,241,658-13,243,930"">susScr2 chr8:13,241,658-13,243,930</a>"
+206;"Sus scrofa (Pig)";N/A;N/A
+174;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+210;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+211;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+235;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+236;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+118;"Saccharomyces cerevisiae (Baker's yeast)";NULL;NULL
+246;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+247;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+251;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+252;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+253;"Saccharomyces cerevisiae (Baker's yeast)";N/A;N/A
+280;"Saccharomyces cerevisiae (Baker's yeast)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=sacCer3&position=chrXIII:169,853-171,445"">sacCer3 chrXIII:169,853-171,445</a>"
+185;"Arabidopsis thaliana (Mouse-ear cress)";N/A;N/A
+215;"Arabidopsis thaliana (Mouse-ear cress)";N/A;N/A
+238;"Arabidopsis thaliana (Mouse-ear cress)";N/A;N/A
+239;"Arabidopsis thaliana (Mouse-ear cress)";N/A;N/A
+118;"Arabidopsis thaliana (Mouse-ear cress)";NULL;NULL
+272;"Arabidopsis thaliana (Mouse-ear cress)";NULL;NULL
+158;"Brassica rapa (Turnip)";N/A;N/A
+158;"Vitis vinifera (Grape)";N/A;N/A
+158;"Populus tremula (European aspen)";N/A;N/A
+158;"Oryza sativa (Rice)";N/A;N/A
+212;"Oryza sativa (Rice)";N/A;N/A
+158;"Lycopersicon esculentum (Tomato)";N/A;N/A
+158;"Glycine max (Soybean)";N/A;N/A
+158;"Medicago truncatula  (Barrel Clover)";N/A;N/A
+212;"Medicago truncatula  (Barrel Clover)";N/A;N/A
+191;"Oxytricha trifallax (Sterkiella histriomuscorum)";N/A;N/A
+195;"Paramecium tetraurelia";N/A;N/A
+192;"Dictyostelium discoideum (Slime mold)";N/A;N/A
+193;"Dictyostelium discoideum (Slime mold)";N/A;N/A
+194;"Neurospora crassa ";N/A;N/A
+209;"Schizosaccharomyces pombe (Fission yeast)";N/A;N/A
+213;"Schizosaccharomyces pombe (Fission yeast)";N/A;N/A
+91;"Cricetulus griseus (Chinese hamster)";N/A;N/A
+200;"Cricetulus griseus (Chinese hamster)";"<a href=""http://jsm-research.imb.uq.edu.au/nred/cgi-bin/ncrnadb.pl?ProbeSearchTerm=N/A"">N/A</a>";N/A
+234;"Cricetulus griseus (Chinese hamster)";N/A;N/A
+182;"Pongo pygmaeus  (Bornean orangutan)";N/A;N/A
+95;"Pongo pygmaeus  (Bornean orangutan)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=ponAbe2&position=chr20_random:2,897,755-2,900,105"">ponAbe2 chr20_random:2,897,755-2,900,105</a>"
+78;"Pongo pygmaeus  (Bornean orangutan)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=ponAbe2&position=chr2a:63,996,093-63,996,298"">ponAbe2 chr2a:63,996,093-63,996,298</a>"
+82;"Microcricetus aureus (Syrian golden hamster)";N/A;N/A
+217;"Phytophthora infestans (Potato late blight fungus)";NULL;NULL
+88;"Xenopus tropicalis (Western clawed frog)";N/A;N/A
+94;"Xenopus tropicalis (Western clawed frog)";N/A;N/A
+254;"Xenopus tropicalis (Western clawed frog)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=xenTro2&position=scaffold_76:2,445,974-2,477,062"">xenTro2 scaffold_76:2,445,974-2,477,062</a>"
+91;"Cricetulus longicaudatus (Chinese hamster)";N/A;N/A
+86;"Loris tardigradus (Slender loris)";N/A;N/A
+86;"Nycticebus pygmaeus (Pygmy slow loris)";N/A;N/A
+86;"Otolemur garnettii (Garnett's greater bushbaby)";N/A;N/A
+86;"Cheirogaleus medius (Fat-tailed dwarf lemur)";N/A;N/A
+86;"Lepilemur dorsalis (Grey-backed sportive lemur)";N/A;N/A
+86;"Lepilemur ruficaudatus (Red-tailed sportive lemur)";N/A;N/A
+86;"Propithecus verreauxi (White sifaka)";N/A;N/A
+86;"Daubentonia madagascariensis (Aye-aye)";N/A;N/A
+86;"Lemur coronatus (Crowned lemur)";N/A;N/A
+86;"Galago moholi (South African lesser bushbaby)";N/A;N/A
+158;"Medicago sativa (Alfalfa)";N/A;N/A
+230;"Caenorhabditis elegans (Roundworm)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=ce6&position=chrX:1,011,499-1,012,345"">ce6 chrX:1,011,499-1,012,345</a>"
+123;"Caenorhabditis elegans (Roundworm)";NULL;NULL
+183;"Papio ursinus (Baboon)";N/A;N/A
+183;"Macaca fascicularis (Crab eating macaque)";N/A;N/A
+95;"Macaca fascicularis (Crab eating macaque)";N/A;N/A
+232;"Macaca fascicularis (Crab eating macaque)";N/A;N/A
+78;"Macaca fascicularis (Crab eating macaque)";N/A;N/A
+94;"Gasterosteus aculeatus (Stickleback)";N/A;N/A
+170;"Pongo abelii (Sumatran orangutan)";N/A;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=ponAbe2&position=chr11:36,917,770-36,922,114"">ponAbe2 chr11:36,917,770-36,922,114</a>"
+122;"Pongo abelii (Sumatran orangutan)";NULL;"<a href=""http://genome.ucsc.edu/cgi-bin/hgTracks?db=ponAbe2&position=chrX:71,263,806-71,295,068"">ponAbe2 chrX:71,263,806-71,295,068</a>"
+78;"Gorilla gorilla (Western Gorilla)";N/A;N/A
+78;"Hylobates lar (Common gibbon)";N/A;N/A
+78;"Papio hamadryas (Hamadryas baboon)";N/A;N/A
+78;"Pan paniscus (Pygmy chimpanzee) (Bonobo) ";N/A;N/A
+78;"Cercopithecus aethiops (Green monkey) (Grivet) ";N/A;N/A
+78;"Aotus trivirgatus (Night monkey) ";NULL;NULL
+78;"Aotus trivirgatus (Night monkey) ";N/A;N/A
+78;"Saguinus imperator (Emperor tamarin)";N/A;N/A
+78;"Saguinus oedipus (Cotton-top tamarin)";N/A;N/A
+122;"Oryctolagus cuniculus (Rabbit)";NULL;NULL
+122;"Loxodonta africana (African elephant)";NULL;NULL
+223;"Human herpesvirus ";NULL;NULL
+224;"Human herpesvirus ";NULL;NULL
+225;"West Nile Virus";NULL;NULL
+231;"Human adenovirus";NULL;NULL
