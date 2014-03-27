@@ -1,162 +1,162 @@
 |5164|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["NTT", "PDE7B", "NTT is sense intronic within PDE7B", "9027504"]]|
-|5150|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5150|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["antiPeg11", "PRC2", "antiPeg11 binds the PRC2 chromatin modification complex", "21172659"]]|
 |5214|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["lincRNA-p21", "hnRNP-K", "lincRNA-p21 binds hnRNP-k through an element near the 5' of the RNA. hnRNP-k involved in lncRNA-p21 mediated gene repression.", "20673990"]]|
 |5215|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["At4", "miR-399", "At4 predicted to mimic miR-399 targets, sequestering miR-399 and attenuating its effects.", "17643101"]]|
 |5172|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Emx2os", "Emx2", "Emx2os is antisense to Emx2 gene.", "12573261"]]|
 |5213|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["meiRNA", "mei2", "meiRNA interacts with mei2 RNA-binding protein, essential for the initiation of premeiotic DNA synthesis and meiosis.", "7520368"]]|
-|5261|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5236|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5261|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1547", "CBX3", "Interacts with Chromobox protein homolog 3 (CBX3) either directly or in a complex.", "21874018"]]|
+|5236|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PWR1", "FLO11", "Expression of PWR1 from FLO11 upstream regulatory region allows expression of FLO11 by silencing the FLO11 silencer ICR1.", "19805129"]]|
 |5158|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["IPS1", "miR-399", "IPS1 mimics a miR-399 target sequestering miR-399 and attenuating its effects", "17643101"]]|
 |5178|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Otx2os1", "Otx2", "Otx2os transcripts found in head to head arrangement with Otx2 transcription factor gene.", "15703187"]]|
-|5176|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5176|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOXA3as", "HOXA4", "HOXA3as isoforms have the potential to overlap the 3' of HOXA4 in the antisense direction in human.", "17185360"]]|
 |5190|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["7SK", "7SK snRNP", "7SK RNA is part of a snRNAP complex composed of several proteins such as Hexim1, Larp7/Pip7S, and the P-TEFb subunits CycT1 and Cdk9", "1646389"]]|
-|5078|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5078|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["BC200", "SRP14", "Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.", "9605471"]]|
 |5270|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["cyrano", "miR-7", "cyrano has a highly conserved sequence which is hypothesised to be a miR-7 binding site. ", "22196729"]]|
 |5132|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Alpha 250/ Alpha 280", "Rps14", "Rps14 encodes a ribosomal protein that is part of the 40S subunit.", "7867928"]]|
 |5088|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Gomafu", "SF1", "Gomafu UACUAAC repeats can bind to splicing factor 1 (SF1) ", "21463453"]]|
-|5089|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5089|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["DHFR upstream transcripts", "TFIIB", "Interacts with DHFR upstream transcripts.", "17237763"]]|
 |5274|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["KDM5B-AS1", "KLHL12", "KDM5B-AS1 expression appears to stimulate KLHL12 gene expression", "20887892"]]|
-|5113|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5113|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["RepA transcript", "Ezh2", "RepA can associate with the PRC2 complex through binding Ezh2 and recruit it to the X chromosome.", "18974356"]]|
 |5277|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["LINC00570", "ROCK2 ", "\tLINC00570 expression appears to stimulate ROCK2 gene expression", "20887892"]]|
-|5082|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5083|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5175|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5082|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["BC1", "hnRNP A2", "GA kink turn (KT) motif in BC1 5' that mediates distal dendritic targetting binds heterogeneous nuclear ribonucleoprotein\nA2 ", "17074884"]]|
+|5083|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["BORG", "OP-1", "BORG is a target gene of OP-1 signaling", "9642273"]]|
+|5175|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOTTIP", "WDR5", "HOTTIP binds to WDR5, a component of the MLL/ Trithorax chromatin modifying complexes.", "21423168"]]|
 |5081|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["BACE1AS", "BACE1", "Beta-site APP-cleaving enzyme 1 isoform A. Antisense gene to BACE1AS, associated with Alzheimer's disease.", "12535780"]]|
-|5256|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5256|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1242", "Oct4", "linc1242 required for normal expression of Oct4/Pou5f1 in mESCs", "21874018"]]|
 |5087|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["EGO", "ITPR1", "EGO is transcribed antisense to an intron of ITPR1", "17351112"]]|
-|5171|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5171|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Hoxa11as", "HOXA11", "HOXA11as is predicted to regulate the level of HOXA RNA, by an unknown mechanism.", "12050232"]]|
 |5095|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HAR1A", "HAR1B", "HAR1A overlaps HAR1B exon and part of an intron in the antisense direction.", "16915236"]]|
-|5234|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5138|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5272|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5234|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Adapt33", "CBX1", "Interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.", "21874018"]]|
+|5138|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Rian", "CBX3", "Interacts with Chromobox protein homolog 3 (CBX3) either directly or in a complex.", "21874018"]]|
+|5272|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["COLDAIR", "FLC", "Flowering locus C (FLC) is an important regulator of flowering time. Known to be repressed by prolonged cold (vernalization) epigenetically by the PHD-PRC2 complex", "21127216"]]|
 |5079|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["ANRIL", "CBX7", "ANRIL interacts and regulates Chromobox 7 (CBX7), a component of the Polycomb Repressor Complex 1 (PRC1).", "20541999"]]|
 |5106|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["ncR-uPAR", "PAR-1", "ncR-uPAR is predicted to interact with the PAR-1 promoter in some way to stimulate PAR-1 transcription (ie: by recruitment of transcription factors). ", "12084570"]]|
 |5145|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Nespas", "PRC2", "Nespas RNA binds to the PRC2 chromatin modification complex", "21172659"]]|
-|5257|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5257|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1368", "Zfp42", "linc1368 required for normal expression of Zfp42 in mESCs", "21874018"]]|
 |5183|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HULC", "miR-372", "HULC binds and inhibits activity of miR-372", "20423907"]]|
-|5279|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5279|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc-MD1", "miR-133 ", "linc-MD1 acts as an endogenous sponge or target mimic for miR-133 ", "22000014"]]|
 |5267|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PANDA", "NF-YA ", "PANDA binds NF-YA preventing it from binding target gene promoters", "21642992"]]|
 |5104|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["MEG3", "PRC2", "Meg3/Gtl2 was found to bind the PRC2 chromatin modifying complex", "21172659"]]|
 |5185|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["COOLAIR", "FLC", "Flowering locus C (FLC) is an important regulator of flowering time. Known to be repressed by prolonged cold (vernalization) epigenetically by the PHD-PRC2 complex", "20010688"]]|
-|5281|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5281|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PTENP1 asRNAs", "DNMT3A", "PTENP1 asRNA alpha binds DNMT3A (DNA methylase)", "23435381"]]|
 |5092|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["GAS5", "Glucocorticoid receptor", "Gas5 can bind and repress the action of the glucocorticoid receptor transcription factor", "20124551"]]|
-|5096|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5187|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5096|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["H19", "PRC2", "H19 and a potential antisense transcript were reported to bind the PRC2 chromatin modification complex.", "21172659"]]|
+|5187|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PTENP1", "miR-20a", "miR-19b and miR-20a can target PTEN and PTEN1P", "20577206"]]|
 |5201|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["DISC2", "DISC1", "DISC2 is transcribed within, and antisense to, DISC1", "10814723"]]|
 |5200|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["B2 SINE RNA", "RNA polymerase II", "B2 binds RNA polymerase II core protein complex and inhibits transcription", "15300239"]]|
 |5144|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["LXRBSV", "LXR-beta", "LXRBSV is an isoform of LXR-beta. Oxysterols receptor LXR-beta (Liver X receptor beta) (Nuclear orphan receptor LXR-beta) (Ubiquitously-expressed nuclear receptor) (Retinoid X receptor interacting protein No.15).", "19878653"]]|
-|5278|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5278|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["LOC100887755", "AURKA", "Stimulates AURKA gene expression", "20887892"]]|
 |5273|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["LINC00568", "ECM1", "LINC00568 stimulates ECM1 gene expression ", "20887892"]]|
 |5140|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["7SL", "SRP", "7SL RNA is a component of the signal recognition particle (SRP), which in mammals consists of the proteins SRP9, SRP14, SRP19, SRP54, SRP68, and SRP72.", "6196367"]]|
 |5206|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["IGF2AS", "Igf2", "Igf2as is antisense to some isoforms of Igf2.", "10731720"]]|
 |5152|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Beta-MHC antisense transcripts", "beta MHC", "Beta-MHC gene is entirely overlapped by the antisense transcript.", "9632112"]]|
 |5149|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["MEG9", "PRC2", "Binds to the PRC2 chromatin modification complex.\n(Binding of an RNA from this locus has been confirmed but it hasn't been confirmed that it is in-fact Meg9/Mirg).", "21172659"]]|
-|5077|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5262|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5108|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5260|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5077|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Air", "Slc22a3", "Gene upstream from Air. Imprinted in E11.5 placenta", "11845212"]]|
+|5262|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["CDR1 AS", "Ago2", "Through miR-7, CDR1 AS can bind and sequester Ago2", "23446346"]]|
+|5108|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["NRON", "KPNB1", "importin-beta 1", "16141075"]]|
+|5260|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1582", "Zfp42", "linc1582 required for normal expression of Zfp42 in mESCs", "21874018"]]|
 |5229|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["21A", "CENP-F", "21AS has complementarity to CENP-F introns, and over-expression of 21AS in vitro decreased levels of CENP-F mRNA and protein.", "17274687"]]|
 |5148|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Msx1as", "Msx1", "Antisense to Msx1as RNA.", "11390985"]]|
 |5243|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Dio3os", "Dio3", "Some Dio3os transcripts overlap with Dio3 in an antisense orientation.", "14962667"]]|
-|5228|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5228|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["CAR Intergenic 10", "ADAM12", "ADAM12 is located on the 5' side of CAR Intergenic 10 with an overlap of a few hundred base pairs.", "20404130"]]|
 |5102|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Khps1a", "Sphk1", "Gene overlapped by Khps1 antisense transcript.", "15325271"]]|
-|5090|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5090|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Evf2", "Dlx2", "Evf-2 binds to Dlx2 protein in a homeodomain-specific manner and functions as a co-activator.", "16705037"]]|
 |5093|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Malat1", "SFRS1", "Malat1 co-localises and interacts with SFRS1 (earlier referred as SF2/ASF) SR protein.", "20149803"]]|
-|5101|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5101|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Kcnq1ot1", "G9a", "Kncq1ot1 binds the G9a histone methyltransferase.", "18951091"]]|
 |5223|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Beta 2.7 RNA", "GRIM\u201319", "GRIM-19 is a subunit of complex I of the mitochondrial respiratory chain and is stabilized by Beta2.7 RNA by direct physical interaction.", "17540903"]]|
 |5222|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Mrhl", "Phkb", "Recombination hot spot RNA is transcribed from a Phkb intron", "15169920"]]|
-|5097|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5105|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5263|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5173|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5098|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5258|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|5177|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5097|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOTAIR", "HOXC11", "HOTAIR gene is found between and in the antisense orientation from HOXC11 and HOXC12 genes.", "17604720"]]|
+|5105|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["NEAT1", "SUV39H1", "Neat1 interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ", "21874018"]]|
+|5263|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1257", "CBX1", "Interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.", "21874018"]]|
+|5173|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PR antisense transcripts", "HP1 gamma", "Heterochromatin protein 1 (HP1) can associate with PR antisense transcripts.", "18604220"]]|
+|5098|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOTAIRM1", "CBX1", "HOTAIRM1 interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.", "21874018"]]|
+|5258|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1609", "ESET", "Interacts with Histone-lysine N-methyltransferase SETDB1 (ESET) either directly or in a complex.", "21874018"]]|
+|5177|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOXA6as", "HOXA7", "HOXA6as transcript AK091933 overlaps the 3'UTR of HOXA7 in the antisense direction.", "17445766"]]|
 |5232|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HAR1B", "HAR1A", "HAR1B overlaps part of the first exon of HAR1A in the antisense direction.", "16915236"]]|
-|5259|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5259|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1610", "JARID1C", "Interacts with Lysine-specific demethylase 5C (JARID1C) either directly or in a complex.", "21874018"]]|
 |5094|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["mascRNA", "Malat1", "mascRNA is processed from Malat1", "NULL"]]|
 |5276|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PDZK1IP1-AS1", "CMPK1", "PDZK1IP1-AS1 expression appears to stimulate CMPK1 gene expression", "20887892"]]|
 |5238|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["npc536", "AT1G67930", "npc536 is antisense to AT1G67930, which encodes a Golgi-transport complex related protein.", "8997003"]]|
 |5237|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Dlx1as", "Dlx1", "Dlx1as overlaps exons and introns of Dlx1 in the antisense direction", "8812481"]]|
-|5266|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|5266|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Mistral", "Hoxa7", "Mira mediated a local rearrangement in chromatin structure to bring the Mira, Hox66 and Hoxa7 gene loci into a complex.", "21925392"]]|
 |50164|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["NTT", "PDE7B", "NTT is sense intronic within PDE7B", "9027504"]]|
-|50150|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50150|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["antiPeg11", "PRC2", "antiPeg11 binds the PRC2 chromatin modification complex", "21172659"]]|
 |50214|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["lincRNA-p21", "hnRNP-K", "lincRNA-p21 binds hnRNP-k through an element near the 5' of the RNA. hnRNP-k involved in lncRNA-p21 mediated gene repression.", "20673990"]]|
 |50215|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["At4", "miR-399", "At4 predicted to mimic miR-399 targets, sequestering miR-399 and attenuating its effects.", "17643101"]]|
 |50172|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Emx2os", "Emx2", "Emx2os is antisense to Emx2 gene.", "12573261"]]|
 |50213|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["meiRNA", "mei2", "meiRNA interacts with mei2 RNA-binding protein, essential for the initiation of premeiotic DNA synthesis and meiosis.", "7520368"]]|
-|50261|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50236|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50261|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1547", "CBX3", "Interacts with Chromobox protein homolog 3 (CBX3) either directly or in a complex.", "21874018"]]|
+|50236|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PWR1", "FLO11", "Expression of PWR1 from FLO11 upstream regulatory region allows expression of FLO11 by silencing the FLO11 silencer ICR1.", "19805129"]]|
 |50158|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["IPS1", "miR-399", "IPS1 mimics a miR-399 target sequestering miR-399 and attenuating its effects", "17643101"]]|
 |50178|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Otx2os1", "Otx2", "Otx2os transcripts found in head to head arrangement with Otx2 transcription factor gene.", "15703187"]]|
-|50176|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50176|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOXA3as", "HOXA4", "HOXA3as isoforms have the potential to overlap the 3' of HOXA4 in the antisense direction in human.", "17185360"]]|
 |50190|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["7SK", "7SK snRNP", "7SK RNA is part of a snRNAP complex composed of several proteins such as Hexim1, Larp7/Pip7S, and the P-TEFb subunits CycT1 and Cdk9", "1646389"]]|
-|50078|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50078|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["BC200", "SRP14", "Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.", "9605471"]]|
 |50270|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["cyrano", "miR-7", "cyrano has a highly conserved sequence which is hypothesised to be a miR-7 binding site. ", "22196729"]]|
 |50132|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Alpha 250/ Alpha 280", "Rps14", "Rps14 encodes a ribosomal protein that is part of the 40S subunit.", "7867928"]]|
 |50088|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Gomafu", "SF1", "Gomafu UACUAAC repeats can bind to splicing factor 1 (SF1) ", "21463453"]]|
-|50089|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50089|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["DHFR upstream transcripts", "TFIIB", "Interacts with DHFR upstream transcripts.", "17237763"]]|
 |50274|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["KDM5B-AS1", "KLHL12", "KDM5B-AS1 expression appears to stimulate KLHL12 gene expression", "20887892"]]|
-|50113|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50113|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["RepA transcript", "Ezh2", "RepA can associate with the PRC2 complex through binding Ezh2 and recruit it to the X chromosome.", "18974356"]]|
 |50277|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["LINC00570", "ROCK2 ", "\tLINC00570 expression appears to stimulate ROCK2 gene expression", "20887892"]]|
-|50082|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50083|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50175|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50082|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["BC1", "hnRNP A2", "GA kink turn (KT) motif in BC1 5' that mediates distal dendritic targetting binds heterogeneous nuclear ribonucleoprotein\nA2 ", "17074884"]]|
+|50083|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["BORG", "OP-1", "BORG is a target gene of OP-1 signaling", "9642273"]]|
+|50175|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOTTIP", "WDR5", "HOTTIP binds to WDR5, a component of the MLL/ Trithorax chromatin modifying complexes.", "21423168"]]|
 |50081|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["BACE1AS", "BACE1", "Beta-site APP-cleaving enzyme 1 isoform A. Antisense gene to BACE1AS, associated with Alzheimer's disease.", "12535780"]]|
-|50256|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50256|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1242", "Oct4", "linc1242 required for normal expression of Oct4/Pou5f1 in mESCs", "21874018"]]|
 |50087|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["EGO", "ITPR1", "EGO is transcribed antisense to an intron of ITPR1", "17351112"]]|
-|50171|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50171|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Hoxa11as", "HOXA11", "HOXA11as is predicted to regulate the level of HOXA RNA, by an unknown mechanism.", "12050232"]]|
 |50095|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HAR1A", "HAR1B", "HAR1A overlaps HAR1B exon and part of an intron in the antisense direction.", "16915236"]]|
-|50234|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50138|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50272|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50234|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Adapt33", "CBX1", "Interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.", "21874018"]]|
+|50138|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Rian", "CBX3", "Interacts with Chromobox protein homolog 3 (CBX3) either directly or in a complex.", "21874018"]]|
+|50272|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["COLDAIR", "FLC", "Flowering locus C (FLC) is an important regulator of flowering time. Known to be repressed by prolonged cold (vernalization) epigenetically by the PHD-PRC2 complex", "21127216"]]|
 |50079|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["ANRIL", "CBX7", "ANRIL interacts and regulates Chromobox 7 (CBX7), a component of the Polycomb Repressor Complex 1 (PRC1).", "20541999"]]|
 |50106|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["ncR-uPAR", "PAR-1", "ncR-uPAR is predicted to interact with the PAR-1 promoter in some way to stimulate PAR-1 transcription (ie: by recruitment of transcription factors). ", "12084570"]]|
 |50145|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Nespas", "PRC2", "Nespas RNA binds to the PRC2 chromatin modification complex", "21172659"]]|
-|50257|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50257|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1368", "Zfp42", "linc1368 required for normal expression of Zfp42 in mESCs", "21874018"]]|
 |50183|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HULC", "miR-372", "HULC binds and inhibits activity of miR-372", "20423907"]]|
-|50279|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50279|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc-MD1", "miR-133 ", "linc-MD1 acts as an endogenous sponge or target mimic for miR-133 ", "22000014"]]|
 |50267|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PANDA", "NF-YA ", "PANDA binds NF-YA preventing it from binding target gene promoters", "21642992"]]|
 |50104|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["MEG3", "PRC2", "Meg3/Gtl2 was found to bind the PRC2 chromatin modifying complex", "21172659"]]|
 |50185|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["COOLAIR", "FLC", "Flowering locus C (FLC) is an important regulator of flowering time. Known to be repressed by prolonged cold (vernalization) epigenetically by the PHD-PRC2 complex", "20010688"]]|
-|50281|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50281|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PTENP1 asRNAs", "DNMT3A", "PTENP1 asRNA alpha binds DNMT3A (DNA methylase)", "23435381"]]|
 |50092|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["GAS5", "Glucocorticoid receptor", "Gas5 can bind and repress the action of the glucocorticoid receptor transcription factor", "20124551"]]|
-|50096|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50187|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50096|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["H19", "PRC2", "H19 and a potential antisense transcript were reported to bind the PRC2 chromatin modification complex.", "21172659"]]|
+|50187|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PTENP1", "miR-20a", "miR-19b and miR-20a can target PTEN and PTEN1P", "20577206"]]|
 |50201|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["DISC2", "DISC1", "DISC2 is transcribed within, and antisense to, DISC1", "10814723"]]|
 |50200|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["B2 SINE RNA", "RNA polymerase II", "B2 binds RNA polymerase II core protein complex and inhibits transcription", "15300239"]]|
 |50144|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["LXRBSV", "LXR-beta", "LXRBSV is an isoform of LXR-beta. Oxysterols receptor LXR-beta (Liver X receptor beta) (Nuclear orphan receptor LXR-beta) (Ubiquitously-expressed nuclear receptor) (Retinoid X receptor interacting protein No.15).", "19878653"]]|
-|50278|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50278|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["LOC100887755", "AURKA", "Stimulates AURKA gene expression", "20887892"]]|
 |50273|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["LINC00568", "ECM1", "LINC00568 stimulates ECM1 gene expression ", "20887892"]]|
 |50140|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["7SL", "SRP", "7SL RNA is a component of the signal recognition particle (SRP), which in mammals consists of the proteins SRP9, SRP14, SRP19, SRP54, SRP68, and SRP72.", "6196367"]]|
 |50206|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["IGF2AS", "Igf2", "Igf2as is antisense to some isoforms of Igf2.", "10731720"]]|
 |50152|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Beta-MHC antisense transcripts", "beta MHC", "Beta-MHC gene is entirely overlapped by the antisense transcript.", "9632112"]]|
 |50149|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["MEG9", "PRC2", "Binds to the PRC2 chromatin modification complex.\n(Binding of an RNA from this locus has been confirmed but it hasn't been confirmed that it is in-fact Meg9/Mirg).", "21172659"]]|
-|50077|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50262|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50108|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50260|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50077|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Air", "Slc22a3", "Gene upstream from Air. Imprinted in E11.5 placenta", "11845212"]]|
+|50262|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["CDR1 AS", "Ago2", "Through miR-7, CDR1 AS can bind and sequester Ago2", "23446346"]]|
+|50108|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["NRON", "KPNB1", "importin-beta 1", "16141075"]]|
+|50260|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1582", "Zfp42", "linc1582 required for normal expression of Zfp42 in mESCs", "21874018"]]|
 |50229|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["21A", "CENP-F", "21AS has complementarity to CENP-F introns, and over-expression of 21AS in vitro decreased levels of CENP-F mRNA and protein.", "17274687"]]|
 |50148|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Msx1as", "Msx1", "Antisense to Msx1as RNA.", "11390985"]]|
 |50243|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Dio3os", "Dio3", "Some Dio3os transcripts overlap with Dio3 in an antisense orientation.", "14962667"]]|
-|50228|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50228|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["CAR Intergenic 10", "ADAM12", "ADAM12 is located on the 5' side of CAR Intergenic 10 with an overlap of a few hundred base pairs.", "20404130"]]|
 |50102|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Khps1a", "Sphk1", "Gene overlapped by Khps1 antisense transcript.", "15325271"]]|
-|50090|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50090|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Evf2", "Dlx2", "Evf-2 binds to Dlx2 protein in a homeodomain-specific manner and functions as a co-activator.", "16705037"]]|
 |50093|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Malat1", "SFRS1", "Malat1 co-localises and interacts with SFRS1 (earlier referred as SF2/ASF) SR protein.", "20149803"]]|
-|50101|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50101|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Kcnq1ot1", "G9a", "Kncq1ot1 binds the G9a histone methyltransferase.", "18951091"]]|
 |50223|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Beta 2.7 RNA", "GRIM\u201319", "GRIM-19 is a subunit of complex I of the mitochondrial respiratory chain and is stabilized by Beta2.7 RNA by direct physical interaction.", "17540903"]]|
 |50222|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Mrhl", "Phkb", "Recombination hot spot RNA is transcribed from a Phkb intron", "15169920"]]|
-|50097|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50105|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50263|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50173|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50098|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50258|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
-|50177|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50097|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOTAIR", "HOXC11", "HOTAIR gene is found between and in the antisense orientation from HOXC11 and HOXC12 genes.", "17604720"]]|
+|50105|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["NEAT1", "SUV39H1", "Neat1 interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ", "21874018"]]|
+|50263|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1257", "CBX1", "Interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.", "21874018"]]|
+|50173|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PR antisense transcripts", "HP1 gamma", "Heterochromatin protein 1 (HP1) can associate with PR antisense transcripts.", "18604220"]]|
+|50098|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOTAIRM1", "CBX1", "HOTAIRM1 interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.", "21874018"]]|
+|50258|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1609", "ESET", "Interacts with Histone-lysine N-methyltransferase SETDB1 (ESET) either directly or in a complex.", "21874018"]]|
+|50177|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HOXA6as", "HOXA7", "HOXA6as transcript AK091933 overlaps the 3'UTR of HOXA7 in the antisense direction.", "17445766"]]|
 |50232|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["HAR1B", "HAR1A", "HAR1B overlaps part of the first exon of HAR1A in the antisense direction.", "16915236"]]|
-|50259|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50259|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["linc1610", "JARID1C", "Interacts with Lysine-specific demethylase 5C (JARID1C) either directly or in a complex.", "21874018"]]|
 |50094|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["mascRNA", "Malat1", "mascRNA is processed from Malat1", "NULL"]]|
 |50276|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["PDZK1IP1-AS1", "CMPK1", "PDZK1IP1-AS1 expression appears to stimulate CMPK1 gene expression", "20887892"]]|
 |50238|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["npc536", "AT1G67930", "npc536 is antisense to AT1G67930, which encodes a Golgi-transport complex related protein.", "8997003"]]|
 |50237|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Dlx1as", "Dlx1", "Dlx1as overlaps exons and introns of Dlx1 in the antisense direction", "8812481"]]|
-|50266|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], []]|
+|50266|;|Associatedcomp|;|1|;|0|;|0|;|[["Component Type", "Component ID", "Description", "Pub Med ID"], ["Mistral", "Hoxa7", "Mira mediated a local rearrangement in chromatin structure to bring the Mira, Hox66 and Hoxa7 gene loci into a complex.", "21925392"]]|
