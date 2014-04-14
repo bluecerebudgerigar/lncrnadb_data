@@ -1,287 +1,287 @@
-transcriptID;ncRNAName;AccessionID2;Description;PubMedID
-77;Air;G9a;"G9a histone methyltransferase is recruited to chromatin by Air";18988810
-77;Air;Igf2r;"Air transcription initiates within intron2 of the Igf2r gene and run antisense to it";9338788
-77;Air;Slc22a2;"Gene upstream from Air. Imprinted in E11.5 placenta";11845212
-77;Air;Slc22a3;"Gene upstream from Air. Imprinted in E11.5 placenta";11845212
-78;BC200;PABP;"Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.";12162957
-78;BC200;eIF4A;"	Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.";18316401
-78;BC200;SRP9;"	Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.";9605471
-78;BC200;SRP14;"Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.";9605471
-79;ANRIL;CBX7;"ANRIL interacts and regulates Chromobox 7 (CBX7), a component of the Polycomb Repressor Complex 1 (PRC1).";20541999
-81;BACE1AS;BACE1;"Beta-site APP-cleaving enzyme 1 isoform A. Antisense gene to BACE1AS, associated with Alzheimer's disease.";12535780
-82;BC1;PABP;"BC1 binds eIF4A, eIF4B and PABP to repress translation initiation by blocking assembly of the 48S initiation complex";12162957
-82;BC1;eIF4A;"BC1 binds eIF4A, eIF4B and PABP to repress translation initiation by blocking assembly of the 48S initiation complex";12451124
-82;BC1;eIF4B;"BC1 binds eIF4A, eIF4B and PABP to repress translation initiation by blocking assembly of the 48S initiation complex";18316401
-82;BC1;"hnRNP A2";"GA kink turn (KT) motif in BC1 5' that mediates distal dendritic targetting binds heterogeneous nuclear ribonucleoprotein
+TranscriptID;IDType;AccessionID2;Description;PubMedID
+77;Protein;G9a;"G9a histone methyltransferase is recruited to chromatin by Air";18988810
+77;Gene;Igf2r;"Air transcription initiates within intron2 of the Igf2r gene and run antisense to it";9338788
+77;Gene;Slc22a2;"Gene upstream from Air. Imprinted in E11.5 placenta";11845212
+77;Gene;Slc22a3;"Gene upstream from Air. Imprinted in E11.5 placenta";11845212
+78;Protein;PABP;"Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.";12162957
+78;Protein;eIF4A;"	Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.";18316401
+78;Protein;SRP9;"	Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.";9605471
+78;Protein;SRP14;"Like BC1, BC200 can inhibit translation. BC200 binds several proteins including PABP, eIF4A and the SRP9/14 heterodimer.";9605471
+79;Protein;CBX7;"ANRIL interacts and regulates Chromobox 7 (CBX7), a component of the Polycomb Repressor Complex 1 (PRC1).";20541999
+81;Gene;BACE1;"Beta-site APP-cleaving enzyme 1 isoform A. Antisense gene to BACE1AS, associated with Alzheimer's disease.";12535780
+82;Protein;PABP;"BC1 binds eIF4A, eIF4B and PABP to repress translation initiation by blocking assembly of the 48S initiation complex";12162957
+82;Protein;eIF4A;"BC1 binds eIF4A, eIF4B and PABP to repress translation initiation by blocking assembly of the 48S initiation complex";12451124
+82;Protein;eIF4B;"BC1 binds eIF4A, eIF4B and PABP to repress translation initiation by blocking assembly of the 48S initiation complex";18316401
+82;Protein;"hnRNP A2";"GA kink turn (KT) motif in BC1 5' that mediates distal dendritic targetting binds heterogeneous nuclear ribonucleoprotein
 A2 ";17074884
-83;BORG;BMP-2;"BORG is a target gene of BMP-2 signaling";9642273
-83;BORG;OP-1;"BORG is a target gene of OP-1 signaling";9642273
-84;"CCND1 associated ncRNAs";TLS;"CCND1 ncRNAs can recruit TLS to the CCND1 promoter via TLS binding to a single stranded region of the ncRNAs ";18509338
-84;"CCND1 associated ncRNAs";CCND1;"ncRNAs are transcribed from the CCND1 promoter and can regulate it expression in response to specific cellular signals";18509338
-86;G22;PABP;"G22 binds poly(A) binding protein";17175535
-86;G22;SRP9;"G22 binds SRP9";17175535
-86;G22;SRP14;"G22 binds SRP14";17175535
-87;EGO;ITPR1;"EGO is transcribed antisense to an intron of ITPR1";17351112
-88;Gomafu;SF1;"Gomafu UACUAAC repeats can bind to splicing factor 1 (SF1) ";21463453
-89;"DHFR upstream transcripts";DHFR;"The minor promoter of DHFR originate the DHFR upstream transcripts, which regulate the expression of the gene.";17237763
-89;"DHFR upstream transcripts";MSH3;NULL;12461786
-89;"DHFR upstream transcripts";TFIIB;"Interacts with DHFR upstream transcripts.";17237763
-90;Evf2;Dlx6;"Evf-2 starts dowstream of Dlx6 (distal-less homeobox 6) and is transcribed antisense through the Dlx6 lous without exon overlap.";16705037
-90;Evf2;Evf1;"Evf-1 is an isoform of Evf-2 with an alternative start site downstream of the Dlx6 gene.";15183307
-90;Evf2;Dlx2;"Evf-2 binds to Dlx2 protein in a homeodomain-specific manner and functions as a co-activator.";16705037
-92;GAS5;"Glucocorticoid receptor";"Gas5 can bind and repress the action of the glucocorticoid receptor transcription factor";20124551
-93;Malat1;SFRS1;"Malat1 co-localises and interacts with SFRS1 (earlier referred as SF2/ASF) SR protein.";20149803
-94;mascRNA;Malat1;"mascRNA is processed from Malat1";NULL
-95;HAR1A;HAR1B;"HAR1A overlaps HAR1B exon and part of an intron in the antisense direction.";16915236
-96;H19;Igf2;"H19 controls imprinting and expression of Igf2.";9203585
-96;H19;IMP1;"H19 can bind Igf2 mRNA binding-protein 1 (IMP1), which may allow H19 to regulate Igf2 levels post-transcriptionally.";10875929
-96;H19;PRC2;"H19 and a potential antisense transcript were reported to bind the PRC2 chromatin modification complex.";21172659
-97;HOTAIR;EZH2;"HOTAIR binds EZH2 to recruit the PRC2 repressive chromatin modifying complex to chromatin.";17604720
-97;HOTAIR;LSD1;"HOTAIR binds LSD1 to recruit the LSD1/CoREST/REST repressive chromatin modifying complex to chromatin.";20616235
-97;HOTAIR;HOXC11;"HOTAIR gene is found between and in the antisense orientation from HOXC11 and HOXC12 genes.";17604720
-98;HOTAIRM1;HOXA1;"HOTAIRM is transcribed from a bidirectional promoter with HOXA1";17185360
-98;HOTAIRM1;HOXA1;"HOTAIRM can regulate expression of HOXA1 but the mechanism (direct or indirect is unknown)";19144990
-98;HOTAIRM1;HOXA4;"HOTAIRM can regulate expression of HOXA4 but the mechanism (direct or indirect is unknown)";19144990
-98;HOTAIRM1;RING1B;"HOTAIRM1 interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
-98;HOTAIRM1;PRC2;"HOTAIRM1 interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
-98;HOTAIRM1;CBX1;"HOTAIRM1 interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.";21874018
-99;Hsr1;eEF1A;"HSR1 binds to eEF1A upon heat shock";16554823
-99;Hsr1;HSF1;"HSR1/eEF1A complex binds to HSF1 upon heat shock helping to activate HSF1.";16554823
-100;pRNA;TIP5;"IGS RNAs bind TAM domain of TIP5 protein in NoRC chromatin remodeling complex, are necessary for NoRC regulation of rRNA transcription.";16678107
-100;pRNA;"rRNA clusters";"IGS RNAs are transcribed from spacer sequences between rRNA genes.";"	16678107"
-101;Kcnq1ot1;PRC2;"Kncq1ot1 binds the PRC2 chromatin modification complex.";18951091
-101;Kcnq1ot1;G9a;"Kncq1ot1 binds the G9a histone methyltransferase.";18951091
-102;Khps1a;Sphk1;"Gene overlapped by Khps1 antisense transcript.";15325271
-104;MEG3;PRC2;"Meg3/Gtl2 was found to bind the PRC2 chromatin modifying complex";21172659
-105;NEAT1;PSPC1;"Neat1 interacts with paraspeckles proteins PSPC1, PSF/SFPQ and NONO/P54NRB either directly or in a complex. ";19217333
-105;NEAT1;PSF;"Neat1 interacts with paraspeckles proteins PSPC1, PSF/SFPQ and NONO/P54NRB either directly or in a complex. ";19188602
-105;NEAT1;NONO;"Neat1 interacts with paraspeckles proteins PSPC1, PSF/SFPQ and NONO/P54NRB either directly or in a complex. ";19106332
-105;NEAT1;PRC2;"Neat1 interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
-105;NEAT1;JARID1B;"Neat1 interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
-105;NEAT1;RING1B;"Neat1 interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
-105;NEAT1;ESET;"Neat1 interacts with Histone-lysine N-methyltransferase SETDB1 (ESET) either directly or in a complex.";21874018
-105;NEAT1;SUV39H1;"Neat1 interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
-106;ncR-uPAR;PAR-1;"ncR-uPAR is predicted to interact with the PAR-1 promoter in some way to stimulate PAR-1 transcription (ie: by recruitment of transcription factors). ";12084570
-108;NRON;NFAT;"nuclear factor of activated T cells";16141075
-108;NRON;KPNB1;"importin-beta 1";16141075
-113;"RepA transcript";Xist;"RepA transcript is internal to the full length Xist gene.";18974356
-113;"RepA transcript";Ezh2;"RepA can associate with the PRC2 complex through binding Ezh2 and recruit it to the X chromosome.";18974356
-114;SAF;FAS;"Fas (Apo-1/CD95) is a receptor belonging to the tumor necrosis factor (TNF) and nerve growth factor receptor family, transcribed in the opposite direction of the intronic RNA Saf.";15829500
-116;SCA8;KLHL-1;"SCA8 is antisense to the KLHL-1 gene.";11919683
-116;SCA8;Staufen;"SCA8 RNA associates with staufen.";14972680
-117;SRA;SRAP;"SRA has a large number of isoforms,  some isoforms are able to encode the SRAP protein.";15147866
-117;SRA;SRC-1;"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including the SRC-1 complex.";10199399
-117;SRA;Sharp;"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including Sharp.";17710122
-117;SRA;SLIRP;"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including SLIRP.";17710122
-117;SRA;"p68 RNA helicase";"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including p68 RNA helicase.";17710122
-117;SRA;"p72 RNA helicase";"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including p72 RNA helicase.";17710122
-117;SRA;Pus3p;"SRA activity is regulated by pseudouridylation by pseudouridine synthase (PUS) 1p and 3p.";17170069
-117;SRA;Pus1p;"SRA activity is regulated by pseudouridylation by pseudouridine synthase (PUS) 1p and 3p.";15327771
-118;TERRA;TRF2;"Interacts with TERRA RNA";19716786
-118;TERRA;ORC1;"Interacts with TERRA RNA";19716786
-118;TERRA;HP1;"HP1-alpha and beta interact with TERRA RNA";19716786
-119;Tsix;Xist;NULL;NULL
-119;Tsix;PRC2;"Tsix can bind to the PRC2 chromatin modification complex.";18974356
-120;TUG1;PRC2;"Tug1 associates with PRC2 (polycomb repressive complex 2) to silence target genes.";19571010
-122;Xist;Ezh2;"Ezh2 – PRC2 subunit that makes direct contact with Xist in vitro.";21172659
-122;Xist;YY1;"Xist RNA can bind to the YY1 protein, which acts as a tether nucleate Xist binding to the Xi";21729784
-122;Xist;"hnRNP U";"hnRNP U (also known as SP120 or SAF-A) binds Xist through its RGG domain. Interaction required for Xist to localise to the Xi";20833368
-122;Xist;RepA;"A short 1.6-kb RNA identified in mouse that is transcribed from within Xist and includes the Xist Repeat A motifs. Binds PRC2 ";18974356
-122;Xist;Suz12;"Suz12 – PRC2 subunit that makes direct contact with Xist in vitro ";20542000
-123;"Y RNAs";Ro60;"Y RNA-interacting protein.";6164096
-123;"Y RNAs";La;"Y RNA-interacting protein.";6164096
-124;Zeb2NAT;Zeb2;NULL;NULL
-125;Zfhx2as;Zfhx2;"Zfhx2as overlaps most of Zfhx2 in the antisense direction and negatively regulates its expression.";16257534
-126;Six3os;Six3;"Six3os overlaps parts of Six3 on antisense strand";15703187
-132;"Alpha 250/ Alpha 280";Rps14;"Rps14 encodes a ribosomal protein that is part of the 40S subunit.";7867928
-133;Xlsirts;"Cytokeratin cytoskeleton";"Xlsirts associates with, and is necessary for, the structure and integrity of the vegetal pole cytokeratin cytoskeleton";16000384
-134;"VegT RNA";"Cytokeratin cytoskeleton";"VegT associates with and is necessary for the structure and integrity of the vegetal pole cytokeratin cytoskeleton.";16000384
-135;"Centromeric alpha-satellite RNA";CENPC1;"Centromere protein C 1 is localised to the nucleolus or the centromere by centromeric alpha-satellite RNA
+83;Protein;BMP-2;"BORG is a target gene of BMP-2 signaling";9642273
+83;Protein;OP-1;"BORG is a target gene of OP-1 signaling";9642273
+84;Protein;TLS;"CCND1 ncRNAs can recruit TLS to the CCND1 promoter via TLS binding to a single stranded region of the ncRNAs ";18509338
+84;Gene;CCND1;"ncRNAs are transcribed from the CCND1 promoter and can regulate it expression in response to specific cellular signals";18509338
+86;Protein;PABP;"G22 binds poly(A) binding protein";17175535
+86;Protein;SRP9;"G22 binds SRP9";17175535
+86;Protein;SRP14;"G22 binds SRP14";17175535
+87;Gene;ITPR1;"EGO is transcribed antisense to an intron of ITPR1";17351112
+88;Protein;SF1;"Gomafu UACUAAC repeats can bind to splicing factor 1 (SF1) ";21463453
+89;Gene;DHFR;"The minor promoter of DHFR originate the DHFR upstream transcripts, which regulate the expression of the gene.";17237763
+89;Gene;MSH3;NULL;12461786
+89;Protein;TFIIB;"Interacts with DHFR upstream transcripts.";17237763
+90;Gene;Dlx6;"Evf-2 starts dowstream of Dlx6 (distal-less homeobox 6) and is transcribed antisense through the Dlx6 lous without exon overlap.";16705037
+90;Transcript;Evf1;"Evf-1 is an isoform of Evf-2 with an alternative start site downstream of the Dlx6 gene.";15183307
+90;Protein;Dlx2;"Evf-2 binds to Dlx2 protein in a homeodomain-specific manner and functions as a co-activator.";16705037
+92;Protein;"Glucocorticoid receptor";"Gas5 can bind and repress the action of the glucocorticoid receptor transcription factor";20124551
+93;Protein;SFRS1;"Malat1 co-localises and interacts with SFRS1 (earlier referred as SF2/ASF) SR protein.";20149803
+94;Gene;Malat1;"mascRNA is processed from Malat1";NULL
+95;Gene;HAR1B;"HAR1A overlaps HAR1B exon and part of an intron in the antisense direction.";16915236
+96;Gene;Igf2;"H19 controls imprinting and expression of Igf2.";9203585
+96;Protein;IMP1;"H19 can bind Igf2 mRNA binding-protein 1 (IMP1), which may allow H19 to regulate Igf2 levels post-transcriptionally.";10875929
+96;Protein;PRC2;"H19 and a potential antisense transcript were reported to bind the PRC2 chromatin modification complex.";21172659
+97;Protein;EZH2;"HOTAIR binds EZH2 to recruit the PRC2 repressive chromatin modifying complex to chromatin.";17604720
+97;Protein;LSD1;"HOTAIR binds LSD1 to recruit the LSD1/CoREST/REST repressive chromatin modifying complex to chromatin.";20616235
+97;Gene;HOXC11;"HOTAIR gene is found between and in the antisense orientation from HOXC11 and HOXC12 genes.";17604720
+98;Gene;HOXA1;"HOTAIRM is transcribed from a bidirectional promoter with HOXA1";17185360
+98;Transcript;HOXA1;"HOTAIRM can regulate expression of HOXA1 but the mechanism (direct or indirect is unknown)";19144990
+98;Transcript;HOXA4;"HOTAIRM can regulate expression of HOXA4 but the mechanism (direct or indirect is unknown)";19144990
+98;Protein;RING1B;"HOTAIRM1 interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
+98;Protein;PRC2;"HOTAIRM1 interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
+98;Protein;CBX1;"HOTAIRM1 interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.";21874018
+99;Protein;eEF1A;"HSR1 binds to eEF1A upon heat shock";16554823
+99;Protein;HSF1;"HSR1/eEF1A complex binds to HSF1 upon heat shock helping to activate HSF1.";16554823
+100;Protein;TIP5;"IGS RNAs bind TAM domain of TIP5 protein in NoRC chromatin remodeling complex, are necessary for NoRC regulation of rRNA transcription.";16678107
+100;Gene;"rRNA clusters";"IGS RNAs are transcribed from spacer sequences between rRNA genes.";"	16678107"
+101;Protein;PRC2;"Kncq1ot1 binds the PRC2 chromatin modification complex.";18951091
+101;Protein;G9a;"Kncq1ot1 binds the G9a histone methyltransferase.";18951091
+102;Gene;Sphk1;"Gene overlapped by Khps1 antisense transcript.";15325271
+104;Protein;PRC2;"Meg3/Gtl2 was found to bind the PRC2 chromatin modifying complex";21172659
+105;Protein;PSPC1;"Neat1 interacts with paraspeckles proteins PSPC1, PSF/SFPQ and NONO/P54NRB either directly or in a complex. ";19217333
+105;Protein;PSF;"Neat1 interacts with paraspeckles proteins PSPC1, PSF/SFPQ and NONO/P54NRB either directly or in a complex. ";19188602
+105;Protein;NONO;"Neat1 interacts with paraspeckles proteins PSPC1, PSF/SFPQ and NONO/P54NRB either directly or in a complex. ";19106332
+105;Protein;PRC2;"Neat1 interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
+105;Protein;JARID1B;"Neat1 interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
+105;Protein;RING1B;"Neat1 interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
+105;Protein;ESET;"Neat1 interacts with Histone-lysine N-methyltransferase SETDB1 (ESET) either directly or in a complex.";21874018
+105;Protein;SUV39H1;"Neat1 interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
+106;Gene;PAR-1;"ncR-uPAR is predicted to interact with the PAR-1 promoter in some way to stimulate PAR-1 transcription (ie: by recruitment of transcription factors). ";12084570
+108;Protein;NFAT;"nuclear factor of activated T cells";16141075
+108;Protein;KPNB1;"importin-beta 1";16141075
+113;Gene;Xist;"RepA transcript is internal to the full length Xist gene.";18974356
+113;Protein;Ezh2;"RepA can associate with the PRC2 complex through binding Ezh2 and recruit it to the X chromosome.";18974356
+114;Gene;FAS;"Fas (Apo-1/CD95) is a receptor belonging to the tumor necrosis factor (TNF) and nerve growth factor receptor family, transcribed in the opposite direction of the intronic RNA Saf.";15829500
+116;Gene;KLHL-1;"SCA8 is antisense to the KLHL-1 gene.";11919683
+116;Protein;Staufen;"SCA8 RNA associates with staufen.";14972680
+117;Protein;SRAP;"SRA has a large number of isoforms,  some isoforms are able to encode the SRAP protein.";15147866
+117;Protein;SRC-1;"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including the SRC-1 complex.";10199399
+117;Protein;Sharp;"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including Sharp.";17710122
+117;Protein;SLIRP;"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including SLIRP.";17710122
+117;Protein;"p68 RNA helicase";"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including p68 RNA helicase.";17710122
+117;Protein;"p72 RNA helicase";"SRA interacts either directly or through a complex with a number of other co-activator and repressor proteins, including p72 RNA helicase.";17710122
+117;Protein;Pus3p;"SRA activity is regulated by pseudouridylation by pseudouridine synthase (PUS) 1p and 3p.";17170069
+117;Protein;Pus1p;"SRA activity is regulated by pseudouridylation by pseudouridine synthase (PUS) 1p and 3p.";15327771
+118;Protein;TRF2;"Interacts with TERRA RNA";19716786
+118;Protein;ORC1;"Interacts with TERRA RNA";19716786
+118;Protein;HP1;"HP1-alpha and beta interact with TERRA RNA";19716786
+119;Gene;Xist;NULL;NULL
+119;Protein;PRC2;"Tsix can bind to the PRC2 chromatin modification complex.";18974356
+120;Protein;PRC2;"Tug1 associates with PRC2 (polycomb repressive complex 2) to silence target genes.";19571010
+122;Protein;Ezh2;"Ezh2 – PRC2 subunit that makes direct contact with Xist in vitro.";21172659
+122;Protein;YY1;"Xist RNA can bind to the YY1 protein, which acts as a tether nucleate Xist binding to the Xi";21729784
+122;Protein;"hnRNP U";"hnRNP U (also known as SP120 or SAF-A) binds Xist through its RGG domain. Interaction required for Xist to localise to the Xi";20833368
+122;Transcript;RepA;"A short 1.6-kb RNA identified in mouse that is transcribed from within Xist and includes the Xist Repeat A motifs. Binds PRC2 ";18974356
+122;Protein;Suz12;"Suz12 – PRC2 subunit that makes direct contact with Xist in vitro ";20542000
+123;Protein;Ro60;"Y RNA-interacting protein.";6164096
+123;Protein;La;"Y RNA-interacting protein.";6164096
+124;Gene;Zeb2;NULL;NULL
+125;Gene;Zfhx2;"Zfhx2as overlaps most of Zfhx2 in the antisense direction and negatively regulates its expression.";16257534
+126;Gene;Six3;"Six3os overlaps parts of Six3 on antisense strand";15703187
+132;Gene;Rps14;"Rps14 encodes a ribosomal protein that is part of the 40S subunit.";7867928
+133;Protein;"Cytokeratin cytoskeleton";"Xlsirts associates with, and is necessary for, the structure and integrity of the vegetal pole cytokeratin cytoskeleton";16000384
+134;Protein;"Cytokeratin cytoskeleton";"VegT associates with and is necessary for the structure and integrity of the vegetal pole cytokeratin cytoskeleton.";16000384
+135;Protein;CENPC1;"Centromere protein C 1 is localised to the nucleolus or the centromere by centromeric alpha-satellite RNA
 ";17623812
-135;"Centromeric alpha-satellite RNA";INCENP;"Inner centromere protein antigens 135/155kDa are localised to the nucleolus or the centromere by centromeric alpha-satellite RNA";17623812
-135;"Centromeric alpha-satellite RNA";Survivin;"Centromeric alpha-satellite RNA is required to localised survivin to the metaphase centromere";17623812
-138;Rian;PRC2;"Rian binds to the PRC2 chromatin modification complex.";"21172659, 21874018"
-138;Rian;RING1B;"Interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
-138;Rian;JARID1B;"Interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
-138;Rian;JARID1C;"Interacts with Lysine-specific demethylase 5C (JARID1C) either directly or in a complex.";21874018
-138;Rian;CBX3;"Interacts with Chromobox protein homolog 3 (CBX3) either directly or in a complex.";21874018
-140;7SL;SRP;"7SL RNA is a component of the signal recognition particle (SRP), which in mammals consists of the proteins SRP9, SRP14, SRP19, SRP54, SRP68, and SRP72.";6196367
-144;LXRBSV;LXR-beta;"LXRBSV is an isoform of LXR-beta. Oxysterols receptor LXR-beta (Liver X receptor beta) (Nuclear orphan receptor LXR-beta) (Ubiquitously-expressed nuclear receptor) (Retinoid X receptor interacting protein No.15).";19878653
-145;Nespas;PRC2;"Nespas RNA binds to the PRC2 chromatin modification complex";21172659
-147;tie-1as;tie-1;"tie-1as duplexes with tie-1 in vivo";19880500
-147;tie-1as;tie-1;"tie-1as encoded opposite to the 3' of the tie1 gene";19880500
-148;Msx1as;Msx1;"Antisense to Msx1as RNA.";11390985
-149;MEG9;PRC2;"Binds to the PRC2 chromatin modification complex.
+135;Protein;INCENP;"Inner centromere protein antigens 135/155kDa are localised to the nucleolus or the centromere by centromeric alpha-satellite RNA";17623812
+135;Protein;Survivin;"Centromeric alpha-satellite RNA is required to localised survivin to the metaphase centromere";17623812
+138;Protein;PRC2;"Rian binds to the PRC2 chromatin modification complex.";"21172659, 21874018"
+138;Protein;RING1B;"Interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
+138;Protein;JARID1B;"Interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
+138;Protein;JARID1C;"Interacts with Lysine-specific demethylase 5C (JARID1C) either directly or in a complex.";21874018
+138;Protein;CBX3;"Interacts with Chromobox protein homolog 3 (CBX3) either directly or in a complex.";21874018
+140;Protein;SRP;"7SL RNA is a component of the signal recognition particle (SRP), which in mammals consists of the proteins SRP9, SRP14, SRP19, SRP54, SRP68, and SRP72.";6196367
+144;Gene;LXR-beta;"LXRBSV is an isoform of LXR-beta. Oxysterols receptor LXR-beta (Liver X receptor beta) (Nuclear orphan receptor LXR-beta) (Ubiquitously-expressed nuclear receptor) (Retinoid X receptor interacting protein No.15).";19878653
+145;Protein;PRC2;"Nespas RNA binds to the PRC2 chromatin modification complex";21172659
+147;Transcript;tie-1;"tie-1as duplexes with tie-1 in vivo";19880500
+147;Gene;tie-1;"tie-1as encoded opposite to the 3' of the tie1 gene";19880500
+148;Gene;Msx1;"Antisense to Msx1as RNA.";11390985
+149;Protein;PRC2;"Binds to the PRC2 chromatin modification complex.
 (Binding of an RNA from this locus has been confirmed but it hasn't been confirmed that it is in-fact Meg9/Mirg).";21172659
-150;antiPeg11;Peg11/Rtl1;"antiPeg11 encoded miRNAs target Peg11";15854907
-150;antiPeg11;Peg11/Rtl1;"antiPeg11 transcribed on antisense strand to Peg11";11337479
-150;antiPeg11;PRC2;"antiPeg11 binds the PRC2 chromatin modification complex";21172659
-152;"Beta-MHC antisense transcripts";"beta MHC";"Beta-MHC gene is entirely overlapped by the antisense transcript.";9632112
-153;"H19 antisense";MRPL23;"Transcription of H19 antisense is thought to start in intron 1 of the (non-imprinted) MRPL23 gene.";18794369
-153;"H19 antisense";H19;"The H19 antisense transcript overlaps H19 in the antisense direction.";18794369
-154;"H19 upstream conserved 1 & 2";H19;"Huc 1 & 2 transcribed ~10kb 5' from H19";11874916
-158;IPS1;miR-399;"IPS1 mimics a miR-399 target sequestering miR-399 and attenuating its effects";17643101
-159;SNHG3;RCC1;"SNHG3 is upstream from RCC1 protein coding gene. Multiple SNHG3 splice isoforms exist, minority join RCC1, majority do not.";9671460
-159;SNHG3;PRC2;"Snhg3 interacts with protein(s) of the Polycomb Repressive Complex 2.";21874018
-159;SNHG3;RING1B;"Snhg3 interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
-159;SNHG3;JARID1B;"Snhg3 interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
-159;SNHG3;SUV39H1;"Snhg3 interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
-162;SNHG4;Matr3;"Upstream from Matrin 3 protein coding gene. A number of splice isoforms of SNHG4 exist some of which join Matrin3 and so act as an upstream initiation site for Matrin 3.";9630250
-164;NTT;PDE7B;"NTT is sense intronic within PDE7B";9027504
-165;TncRNA;Neat1;"TncRNA comes from the 3' end of the shorter (Men epsilon) isoform";9858482
-165;TncRNA;STAT1;"TncRNA can bind STAT1 protein and reduce its translocation to the nucleus";9858482
-169;"E2F4 antisense";E2F4;"E2F4 antisense transcribed from E2F4 3'UTR and can reduce levels of E2F4 protein. ";17121828
-169;"E2F4 antisense";beta-catenin;"Binds to E2F4 3'UTR to stimulate expression of E2F4 antisense";17121828
-169;"E2F4 antisense";TCF4;"Binds to E2F4 3'UTR to stimulate expression of E2F4 antisense";17121828
-170;WT1-AS;WT1;"Wilms' tumor 1 gene";17940140
-171;Hoxa11as;HOXA11;"HOXA1as transcribed from a bidirectional promoter with HOXA11";7789268
-171;Hoxa11as;HOXA11;"HOXA11as is predicted to regulate the level of HOXA RNA, by an unknown mechanism.";12050232
-172;Emx2os;Emx2;"Emx2os is antisense to Emx2 gene.";12573261
-173;"PR antisense transcripts";agRNAs;"Antisense transcripts bind to promoter directed RNAs (agRNAs), an interaction that can affect expression of the sense gene.";18604220
-173;"PR antisense transcripts";"Argonaute proteins";"agRNAs cause recruitment of argonaute protein(s) to the antisense RNA";18604220
-173;"PR antisense transcripts";hnRNP-k;"Heterogeneous nuclear ribonucleoprotein-k (hnRNP-k) dissociates from the PR promoter and associates with antisense RNAs upon addition of agRNAs. ";18604220
-173;"PR antisense transcripts";"HP1 gamma";"Heterochromatin protein 1 (HP1) can associate with PR antisense transcripts.";18604220
-174;SRG1;SER3;"SRG1 transcripts cover either the beginning of, or the whole SER3 gene in the sense direction";15175754
-175;HOTTIP;HOXA13;"At least in humans HOXA13as is from bidirectional promoter with HOXA13";17445766
-175;HOTTIP;HOXA13;"HOTTIP is expressed from a bidirectional promoter with HOXA13 (at least in human).";17445766
-175;HOTTIP;WDR5;"HOTTIP binds to WDR5, a component of the MLL/ Trithorax chromatin modifying complexes.";21423168
-176;HOXA3as;HOXA3;"HOXA3as overlaps introns and exons of HOXA3 transcript variant 2 in the antisense direction in human.";17185360
-176;HOXA3as;HOXA4;"HOXA3as isoforms have the potential to overlap the 3' of HOXA4 in the antisense direction in human.";17185360
-177;HOXA6as;HOXA6;"HOXA6as transcript AK091933 overlaps the first exon and intron of HOXA6 in antisense direction, likely due to transcription from a bi-directional promoter.";17445766
-177;HOXA6as;HOXA7;"HOXA6as transcript AK091933 overlaps the 3'UTR of HOXA7 in the antisense direction.";17445766
-178;Otx2os1;Otx2;"Otx2os transcripts found in head to head arrangement with Otx2 transcription factor gene.";15703187
-180;Hoxd3as;Hoxd3;"Hoxd3as overlaps part of Hoxd3 in antisense direction.";7710686
-183;HULC;miR-372;"HULC binds and inhibits activity of miR-372";20423907
-184;snaR;NF90/ILF3;"The nuclear factor 90 (NF90/ILF3, also known as DRBP76 and NFAR1) protein associate in vivo with snaR transcripts.";17855395
-185;COOLAIR;FLC;"Flowering locus C (FLC) is an important regulator of flowering time. Known to be repressed by prolonged cold (vernalization) epigenetically by the PHD-PRC2 complex";20010688
-187;PTENP1;miR-19b;"miR-19b and miR-20a can target PTEN and PTEN1P";20577206
-187;PTENP1;miR-20a;"miR-19b and miR-20a can target PTEN and PTEN1P";20577206
-188;UM9-5;KCNIP4;"UM9-5 found in an KCNIP4 intron in the sense direction ";12515386
-189;"TEA ncRNAs";Tcra;NULL;NULL
-189;"TEA ncRNAs";"T-cell receptor alpha chain (TCRA)";"Transcript come from the joining (J) gene segments of TCRA and overlap multiple segments of the J array ending in the C alpha region.";3500476
-190;7SK;"7SK snRNP";"7SK RNA is part of a snRNAP complex composed of several proteins such as Hexim1, Larp7/Pip7S, and the P-TEFb subunits CycT1 and Cdk9";1646389
-191;"Maternal RNA templates";Transposases;"Several Oxytricha transposases: telomere-bearing elements (TBEs) are required for correct DNA rearrangement. Hence it is predicted that TBE1, TBE2 and TBE3 will be associated in some way with the maternal RNA templates that are also required for this process.";19372392
-193;"psvA antisense RNA";psvA;NULL;NULL
-194;"frq antisense RNAs";"frequency (frq)";"frq antisense RNAs overlap frq gene locus";12607002
-195;"Maternal somatic nucleus RNAs";"Scan RNAs";"ScnRNAs signal sequences to be deleted while maternal RNAs signal sequences to be maintained. Hypothesised that maternal somatic RNAs deplete homologous germline scnRNAs, preventing excision of these sequences in progeny somatic nuclei.";19103667
-196;L1PA16;PSF;"L1PA16 binds PSF and inhibits DNA binding function";19625619
-196;L1PA16;GAGE6;"L1PA16 found to modulate PSF binding to regulatory sequence of GAGE6 gene";19625619
-197;MER11C;PSF;"Mer11C binds PSF and inhibits DNA binding function";19625619
-197;MER11C;GAGE6;"Mer11C found to modulate PSF binding to regulatory sequence of GAGE6 gene";19625619
-198;"PSF inhibiting RNA";PSF;"RNA bound PSF and inhibited PSF DNA binding function";19625619
-198;"PSF inhibiting RNA";GAGE6;"RNA found to modulate PSF binding to regulatory sequence of GAGE6 gene";19625619
-199;LINoCR;Lysozyme;"LINoCR is transcribed antisense to the Lysozyme regulatory region.";18851839
-200;"B2 SINE RNA";"RNA polymerase II";"B2 binds RNA polymerase II core protein complex and inhibits transcription";15300239
-201;DISC2;DISC1;"DISC2 is transcribed within, and antisense to, DISC1";10814723
-203;DLG2AS;DLG2;"DLG2: discs, large homolog 2 (Drosophila). Member of the membrane-associated guanylate kinase (MAGUK) family (from NCBI Gene).";13130513
-204;ST7OT;RAY1/ST7;"Various noncoding transcripts overlap RAY1/ST7 exons and intron in the sense and antisense direction.";12213198
-206;IGF2AS;Igf2;"Igf2as is antisense to some isoforms of Igf2.";10731720
-208;"Prion-associated RNAs";PrP;NULL;NULL
-209;"fbp1+ promoter RNAs";fbp1+;"lncRNAs expressed from fbp1+ promoter and overlap part of fbp1+ coding sequence. ";18820678
-210;"PHO5 lncRNA";PHO5;"PHO5 lncRNA transcribed across the PHO5 gene and PHO5 promoter";17470801
-211;"PHO84 antisense";PHO84;"Gene for an inorganic phosphate transporter";18022365
-211;"PHO84 antisense";Rrp6;"Component of the exosome";18022365
-211;"PHO84 antisense";Hda1;"Component of Hda1, Hda2, Hda3 complex";18022365
-211;"PHO84 antisense";Hda2;"Component of Hda1, Hda2, Hda3 complex";18022365
-211;"PHO84 antisense";Hda3;"Component of Hda1, Hda2, Hda3 complex";18022365
-213;meiRNA;mei2;"meiRNA interacts with mei2 RNA-binding protein, essential for the initiation of premeiotic DNA synthesis and meiosis.";7520368
-214;lincRNA-p21;hnRNP-K;"lincRNA-p21 binds hnRNP-k through an element near the 5' of the RNA. hnRNP-k involved in lncRNA-p21 mediated gene repression.";20673990
-215;At4;miR-399;"At4 predicted to mimic miR-399 targets, sequestering miR-399 and attenuating its effects.";17643101
-222;Mrhl;Phkb;"Recombination hot spot RNA is transcribed from a Phkb intron";15169920
-223;"Beta 2.7 RNA";GRIM–19;"GRIM-19 is a subunit of complex I of the mitochondrial respiratory chain and is stabilized by Beta2.7 RNA by direct physical interaction.";17540903
-228;"CAR Intergenic 10";FANK1;"FANK1 is located on the 3'-side of CAR Intergenic10.";20404130
-228;"CAR Intergenic 10";ADAM12;"ADAM12 is located on the 5' side of CAR Intergenic 10 with an overlap of a few hundred base pairs.";20404130
-229;21A;CENP-F;"21AS has complementarity to CENP-F introns, and over-expression of 21AS in vitro decreased levels of CENP-F mRNA and protein.";17274687
-232;HAR1B;HAR1A;"HAR1B overlaps part of the first exon of HAR1A in the antisense direction.";16915236
-233;Sox2ot;SOX2;"Single-exon SOX2 gene is located within SOX2OT intron in vertebrates.";12612584
-234;Adapt33;RING1B;"Interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
-234;Adapt33;PRC2;"Interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
-234;Adapt33;JARID1B;"Interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
-234;Adapt33;ESET;"Iinteracts with Histone-lysine N-methyltransferase SETDB1 (ESET) either directly or in a complex.";21874018
-234;Adapt33;SUV39H1;"Interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
-234;Adapt33;SETD8;"Interacts with N-lysine methyltransferase SETD8 either directly or in a complex. ";21874018
-234;Adapt33;CBX1;"Interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.";21874018
-235;ICR1;FLO11;"ICR1 is transcribed by upstream of FLO11 in sense direction towards FLO11 and covers FLO11 promoter. ICR1 silences FLO11 in cis likely by promoter blocking.";19805129
-235;ICR1;PWR1;"PWR1 is transcribed antisense to ICR1 and silences ICR1 in cis, most likely by promoter blocking.";19805129
-235;ICR1;PWR1;"PWR1 silences ICR1 in cis, most likely by promoter blocking.";19805129
-236;PWR1;ICR1;"PWR1 is antisense to ICR1 and when expressed can silence ICR1 transcription in cis, likely by promoter blocking.";19805129
-236;PWR1;FLO11;"Expression of PWR1 from FLO11 upstream regulatory region allows expression of FLO11 by silencing the FLO11 silencer ICR1.";19805129
-237;Dlx1as;Dlx1;"Dlx1as overlaps exons and introns of Dlx1 in the antisense direction";8812481
-238;npc536;AT1G67930;"npc536 is antisense to AT1G67930, which encodes a Golgi-transport complex related protein.";8997003
-243;Dio3os;Dio3;"Some Dio3os transcripts overlap with Dio3 in an antisense orientation.";14962667
-246;RTL;"TY1 retrotransposon";"RTL is transcribed antisense to a TY1 retrotransposon";18316478
-246;RTL;Xrn1;"RTL is degraded by a cytoplasmic 5'-3' RNA decay pathway containing Xrn1, Dcp1 and Dcp2.";18316478
-247;GAL10-ncRNA;GAL10;"GAL10-ncRNA is transcribed across the GAL10 gene in the antisense direction";19061643
-247;GAL10-ncRNA;GAL1;"GAL10-ncRNA is transcribed across the GAL1 gene in the sense direction";19061643
-248;Zfas1;Znfx1;"5' of Zfas1 overlaps 5' of Znfx1 (zinc finger, NFX1-type containing 1) in an antisense orientation.";21460236
-249;Gtl2-as;PRC2;"Transcript that runs antisense to Gtl2/Meg3 identified as binding to the PRC2 chromatin modifying complex.";21172659
-250;Malat1-as;PRC2;"Malat1 antisense binds to the PRC2 chromatin modification complex";21172659
-251;TIR1axut;TIR1;"TIR1axut 3' end overlaps TIR1 protein coding gene in antisense direction";21697827
-252;TPO1axut;TPO1;"TPO1axut 3' overlaps TIR1 protein coding gene in antisense direction";21697827
-256;linc1242;Nanog;"linc1242 required for normal expression of Nanog in mESCs";21874018
-256;linc1242;Oct4;"linc1242 required for normal expression of Oct4/Pou5f1 in mESCs";21874018
-257;linc1368;Nanog;"linc1368 required for normal expression of Nanog in mESCs";21874018
-257;linc1368;Oct4;"linc1368 required for normal expression of Oct4 in mESCs";21874018
-257;linc1368;Sox2;"linc1368 required for normal expression of Sox2 in mESCs";21874018
-257;linc1368;Klf4;"linc1368 required for normal expression of Klf4 in mESCs";21874018
-257;linc1368;Zfp42;"linc1368 required for normal expression of Zfp42 in mESCs";21874018
-258;linc1609;Nanog;"linc1609 required for normal expression of Nanog in mESCs";21874018
-258;linc1609;Oct4;"linc1609 required for normal expression of Oct4/Pou5f1 in mESCs";21874018
-258;linc1609;Sox2;"linc1609 required for normal expression of Sox2 in mESCs";21874018
-258;linc1609;Klf4;"linc1609 required for normal expression of Klf4 in mESCs";21874018
-258;linc1609;Zfp42;"linc1609 required for normal expression of Zfp42 in mESCs";21874018
-258;linc1609;JARID1C;"Interacts with Lysine-specific demethylase 5C (JARID1C) either directly or in a complex.";21874018
-258;linc1609;ESET;"Interacts with Histone-lysine N-methyltransferase SETDB1 (ESET) either directly or in a complex.";21874018
-259;linc1610;Nanog;"linc1610 required for normal expression of Nanog in mESCs";21874018
-259;linc1610;Oct4;"linc1610 required for normal expression of Oct4 in mESCs";21874018
-259;linc1610;Sox2;"linc1610 required for normal expression of Sox2 in mESCs";21874018
-259;linc1610;Klf4;"linc1610 required for normal expression of Klf4 in mESCs";21874018
-259;linc1610;Zfp42;"linc1610 required for normal expression of Zfp42 in mESCs";21874018
-259;linc1610;PRC2;"Interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
-259;linc1610;RING1B;"Interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
-259;linc1610;JARID1C;"Interacts with Lysine-specific demethylase 5C (JARID1C) either directly or in a complex.";21874018
-260;linc1582;Nanog;"linc1582 required for normal expression of Nanog in mESCs";21874018
-260;linc1582;Oct4;"linc1582 required for normal expression of Oct4 in mESCs";21874018
-260;linc1582;Sox2;"linc1582 required for normal expression of Sox2 in mESCs";21874018
-260;linc1582;Klf4;"linc1582 required for normal expression of Klf4 in mESCs";21874018
-260;linc1582;Zfp42;"linc1582 required for normal expression of Zfp42 in mESCs";21874018
-261;linc1547;Nanog;"linc1547 required for normal expression of Nanog in mESCs";21874018
-261;linc1547;Oct4;"linc1547 required for normal expression of Oct4 in mESCs";21874018
-261;linc1547;Sox2;"linc1547 required for normal expression of Sox2 in mESCs";21874018
-261;linc1547;Klf4;"linc1547 required for normal expression of Klf4 in mESCs";21874018
-261;linc1547;Zfp42;"linc1547 required for normal expression of Zfp42 in mESCs";21874018
-261;linc1547;SUV39H1;"Interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
-261;linc1547;CBX3;"Interacts with Chromobox protein homolog 3 (CBX3) either directly or in a complex.";21874018
-262;"CDR1 AS";miR-671;"miR-671 down-regulates the expression of CDR1 AS";21964070
-262;"CDR1 AS";miR-7;"CDR1 AS binds and sequesters miR-7 which is unable to mediate degradation of CDR1 AS";23446346
-262;"CDR1 AS";Ago2;"Through miR-7, CDR1 AS can bind and sequester Ago2";23446346
-263;linc1257;PRC2;"Interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
-263;linc1257;RING1B;"Interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
-263;linc1257;JARID1B;"Interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
-263;linc1257;SUV39H1;"Interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
-263;linc1257;SETD8;"Interacts with N-lysine methyltransferase SETD8 either directly or in a complex. ";21874018
-263;linc1257;CBX1;"Interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.";21874018
-265;SPRY4-IT1;SPRY4;"SPRY4-IT1 expressed in sense direction from the 2nd intron in SPRY4 gene.";21558391
-266;Mistral;MLL1;"A short hairpin near the 3' of Mira (the activator binding motif) binds to the SET domain of MLL1.";21925392
-266;Mistral;Hoxa6;"Mira mediated a local rearrangement in chromatin structure to bring the Mira, Hox66 and Hoxa7 gene loci into a complex.";21925392
-266;Mistral;Hoxa7;"Mira mediated a local rearrangement in chromatin structure to bring the Mira, Hox66 and Hoxa7 gene loci into a complex.";21925392
-267;PANDA;"NF-YA ";"PANDA binds NF-YA preventing it from binding target gene promoters";21642992
-270;cyrano;miR-7;"cyrano has a highly conserved sequence which is hypothesised to be a miR-7 binding site. ";22196729
-272;COLDAIR;CLF;"COLDAIR binds PRC2 complex protein CURLY LEAF (CLF)";21127216
-272;COLDAIR;FLC;"Flowering locus C (FLC) is an important regulator of flowering time. Known to be repressed by prolonged cold (vernalization) epigenetically by the PHD-PRC2 complex";21127216
-273;LINC00568;ECM1;"LINC00568 stimulates ECM1 gene expression ";20887892
-274;KDM5B-AS1;KLHL12;"KDM5B-AS1 expression appears to stimulate KLHL12 gene expression";20887892
-275;CYP4A22-AS1;"TAL1 ";"CYP4A22-AS1 expression stimulates TAL1 gene expression";20887892
-276;PDZK1IP1-AS1;CMPK1;"PDZK1IP1-AS1 expression appears to stimulate CMPK1 gene expression";20887892
-277;LINC00570;"ROCK2 ";"	LINC00570 expression appears to stimulate ROCK2 gene expression";20887892
-278;LOC100887755;SNAI1;"Stimulates SNAI1 gene expression";20887892
-278;LOC100887755;AURKA;"Stimulates AURKA gene expression";20887892
-279;linc-MD1;miR-135;"linc-MD1 acts as an endogenous sponge or target mimic for miR-135 ";22000014
-279;linc-MD1;"miR-133 ";"linc-MD1 acts as an endogenous sponge or target mimic for miR-133 ";22000014
-280;SUT719;SUR7;"Low level SUR7 expression can be inhibited by SUT719.";21326235
-280;SUT719;GAL80;"SUT719 shares a bidirectional promoter with GAL80.";21326235
-281;"PTENP1 asRNAs";PTENP1;"PTENP1 asRNAs transcripts (alpha, beta and unspliced) expressed antisense to PTENP1 pseudogene.";23435381
-281;"PTENP1 asRNAs";PTENP1;"PTENP1 asRNA beta isoform forms an RNA-RNA interaction with PTENP1 sense.";23435381
-281;"PTENP1 asRNAs";PTEN;"PTENP1 asRNA alpha acts in trans by localising to the PTEN coding gene promoter and inhibiting expression.";23435381
-281;"PTENP1 asRNAs";DNMT3A;"PTENP1 asRNA alpha binds DNMT3A (DNA methylase)";23435381
-282;"Sry circRNA";miR-138;"Sry circRNA binds miR-138 and acts as a microRNA sponge.";23446346
+150;Transcript;Peg11/Rtl1;"antiPeg11 encoded miRNAs target Peg11";15854907
+150;Gene;Peg11/Rtl1;"antiPeg11 transcribed on antisense strand to Peg11";11337479
+150;Protein;PRC2;"antiPeg11 binds the PRC2 chromatin modification complex";21172659
+152;Gene;"beta MHC";"Beta-MHC gene is entirely overlapped by the antisense transcript.";9632112
+153;Gene;MRPL23;"Transcription of H19 antisense is thought to start in intron 1 of the (non-imprinted) MRPL23 gene.";18794369
+153;Gene;H19;"The H19 antisense transcript overlaps H19 in the antisense direction.";18794369
+154;Gene;H19;"Huc 1 & 2 transcribed ~10kb 5' from H19";11874916
+158;Transcript;miR-399;"IPS1 mimics a miR-399 target sequestering miR-399 and attenuating its effects";17643101
+159;Gene;RCC1;"SNHG3 is upstream from RCC1 protein coding gene. Multiple SNHG3 splice isoforms exist, minority join RCC1, majority do not.";9671460
+159;Protein;PRC2;"Snhg3 interacts with protein(s) of the Polycomb Repressive Complex 2.";21874018
+159;Protein;RING1B;"Snhg3 interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
+159;Protein;JARID1B;"Snhg3 interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
+159;Protein;SUV39H1;"Snhg3 interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
+162;Gene;Matr3;"Upstream from Matrin 3 protein coding gene. A number of splice isoforms of SNHG4 exist some of which join Matrin3 and so act as an upstream initiation site for Matrin 3.";9630250
+164;Gene;PDE7B;"NTT is sense intronic within PDE7B";9027504
+165;Gene;Neat1;"TncRNA comes from the 3' end of the shorter (Men epsilon) isoform";9858482
+165;Protein;STAT1;"TncRNA can bind STAT1 protein and reduce its translocation to the nucleus";9858482
+169;Gene;E2F4;"E2F4 antisense transcribed from E2F4 3'UTR and can reduce levels of E2F4 protein. ";17121828
+169;Protein;beta-catenin;"Binds to E2F4 3'UTR to stimulate expression of E2F4 antisense";17121828
+169;Protein;TCF4;"Binds to E2F4 3'UTR to stimulate expression of E2F4 antisense";17121828
+170;Gene;WT1;"Wilms' tumor 1 gene";17940140
+171;Gene;HOXA11;"HOXA1as transcribed from a bidirectional promoter with HOXA11";7789268
+171;Transcript;HOXA11;"HOXA11as is predicted to regulate the level of HOXA RNA, by an unknown mechanism.";12050232
+172;Gene;Emx2;"Emx2os is antisense to Emx2 gene.";12573261
+173;Transcript;agRNAs;"Antisense transcripts bind to promoter directed RNAs (agRNAs), an interaction that can affect expression of the sense gene.";18604220
+173;Protein;"Argonaute proteins";"agRNAs cause recruitment of argonaute protein(s) to the antisense RNA";18604220
+173;Protein;hnRNP-k;"Heterogeneous nuclear ribonucleoprotein-k (hnRNP-k) dissociates from the PR promoter and associates with antisense RNAs upon addition of agRNAs. ";18604220
+173;Protein;"HP1 gamma";"Heterochromatin protein 1 (HP1) can associate with PR antisense transcripts.";18604220
+174;Gene;SER3;"SRG1 transcripts cover either the beginning of, or the whole SER3 gene in the sense direction";15175754
+175;Gene;HOXA13;"At least in humans HOXA13as is from bidirectional promoter with HOXA13";17445766
+175;Gene;HOXA13;"HOTTIP is expressed from a bidirectional promoter with HOXA13 (at least in human).";17445766
+175;Protein;WDR5;"HOTTIP binds to WDR5, a component of the MLL/ Trithorax chromatin modifying complexes.";21423168
+176;Gene;HOXA3;"HOXA3as overlaps introns and exons of HOXA3 transcript variant 2 in the antisense direction in human.";17185360
+176;Gene;HOXA4;"HOXA3as isoforms have the potential to overlap the 3' of HOXA4 in the antisense direction in human.";17185360
+177;Gene;HOXA6;"HOXA6as transcript AK091933 overlaps the first exon and intron of HOXA6 in antisense direction, likely due to transcription from a bi-directional promoter.";17445766
+177;Gene;HOXA7;"HOXA6as transcript AK091933 overlaps the 3'UTR of HOXA7 in the antisense direction.";17445766
+178;Gene;Otx2;"Otx2os transcripts found in head to head arrangement with Otx2 transcription factor gene.";15703187
+180;Gene;Hoxd3;"Hoxd3as overlaps part of Hoxd3 in antisense direction.";7710686
+183;Transcript;miR-372;"HULC binds and inhibits activity of miR-372";20423907
+184;Protein;NF90/ILF3;"The nuclear factor 90 (NF90/ILF3, also known as DRBP76 and NFAR1) protein associate in vivo with snaR transcripts.";17855395
+185;Gene;FLC;"Flowering locus C (FLC) is an important regulator of flowering time. Known to be repressed by prolonged cold (vernalization) epigenetically by the PHD-PRC2 complex";20010688
+187;Transcript;miR-19b;"miR-19b and miR-20a can target PTEN and PTEN1P";20577206
+187;Transcript;miR-20a;"miR-19b and miR-20a can target PTEN and PTEN1P";20577206
+188;Gene;KCNIP4;"UM9-5 found in an KCNIP4 intron in the sense direction ";12515386
+189;Gene;Tcra;NULL;NULL
+189;Gene;"T-cell receptor alpha chain (TCRA)";"Transcript come from the joining (J) gene segments of TCRA and overlap multiple segments of the J array ending in the C alpha region.";3500476
+190;Protein;"7SK snRNP";"7SK RNA is part of a snRNAP complex composed of several proteins such as Hexim1, Larp7/Pip7S, and the P-TEFb subunits CycT1 and Cdk9";1646389
+191;Protein;Transposases;"Several Oxytricha transposases: telomere-bearing elements (TBEs) are required for correct DNA rearrangement. Hence it is predicted that TBE1, TBE2 and TBE3 will be associated in some way with the maternal RNA templates that are also required for this process.";19372392
+193;Gene;psvA;NULL;NULL
+194;Gene;"frequency (frq)";"frq antisense RNAs overlap frq gene locus";12607002
+195;Transcript;"Scan RNAs";"ScnRNAs signal sequences to be deleted while maternal RNAs signal sequences to be maintained. Hypothesised that maternal somatic RNAs deplete homologous germline scnRNAs, preventing excision of these sequences in progeny somatic nuclei.";19103667
+196;Protein;PSF;"L1PA16 binds PSF and inhibits DNA binding function";19625619
+196;Gene;GAGE6;"L1PA16 found to modulate PSF binding to regulatory sequence of GAGE6 gene";19625619
+197;Protein;PSF;"Mer11C binds PSF and inhibits DNA binding function";19625619
+197;Gene;GAGE6;"Mer11C found to modulate PSF binding to regulatory sequence of GAGE6 gene";19625619
+198;Protein;PSF;"RNA bound PSF and inhibited PSF DNA binding function";19625619
+198;Gene;GAGE6;"RNA found to modulate PSF binding to regulatory sequence of GAGE6 gene";19625619
+199;Gene;Lysozyme;"LINoCR is transcribed antisense to the Lysozyme regulatory region.";18851839
+200;Protein;"RNA polymerase II";"B2 binds RNA polymerase II core protein complex and inhibits transcription";15300239
+201;Gene;DISC1;"DISC2 is transcribed within, and antisense to, DISC1";10814723
+203;Gene;DLG2;"DLG2: discs, large homolog 2 (Drosophila). Member of the membrane-associated guanylate kinase (MAGUK) family (from NCBI Gene).";13130513
+204;Gene;RAY1/ST7;"Various noncoding transcripts overlap RAY1/ST7 exons and intron in the sense and antisense direction.";12213198
+206;Gene;Igf2;"Igf2as is antisense to some isoforms of Igf2.";10731720
+208;Protein;PrP;NULL;NULL
+209;Gene;fbp1+;"lncRNAs expressed from fbp1+ promoter and overlap part of fbp1+ coding sequence. ";18820678
+210;Gene;PHO5;"PHO5 lncRNA transcribed across the PHO5 gene and PHO5 promoter";17470801
+211;Gene;PHO84;"Gene for an inorganic phosphate transporter";18022365
+211;Protein;Rrp6;"Component of the exosome";18022365
+211;Protein;Hda1;"Component of Hda1, Hda2, Hda3 complex";18022365
+211;Protein;Hda2;"Component of Hda1, Hda2, Hda3 complex";18022365
+211;Protein;Hda3;"Component of Hda1, Hda2, Hda3 complex";18022365
+213;Protein;mei2;"meiRNA interacts with mei2 RNA-binding protein, essential for the initiation of premeiotic DNA synthesis and meiosis.";7520368
+214;Protein;hnRNP-K;"lincRNA-p21 binds hnRNP-k through an element near the 5' of the RNA. hnRNP-k involved in lncRNA-p21 mediated gene repression.";20673990
+215;Transcript;miR-399;"At4 predicted to mimic miR-399 targets, sequestering miR-399 and attenuating its effects.";17643101
+222;Gene;Phkb;"Recombination hot spot RNA is transcribed from a Phkb intron";15169920
+223;Protein;GRIM–19;"GRIM-19 is a subunit of complex I of the mitochondrial respiratory chain and is stabilized by Beta2.7 RNA by direct physical interaction.";17540903
+228;Gene;FANK1;"FANK1 is located on the 3'-side of CAR Intergenic10.";20404130
+228;Gene;ADAM12;"ADAM12 is located on the 5' side of CAR Intergenic 10 with an overlap of a few hundred base pairs.";20404130
+229;Gene;CENP-F;"21AS has complementarity to CENP-F introns, and over-expression of 21AS in vitro decreased levels of CENP-F mRNA and protein.";17274687
+232;Gene;HAR1A;"HAR1B overlaps part of the first exon of HAR1A in the antisense direction.";16915236
+233;Gene;SOX2;"Single-exon SOX2 gene is located within SOX2OT intron in vertebrates.";12612584
+234;Protein;RING1B;"Interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
+234;Protein;PRC2;"Interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
+234;Protein;JARID1B;"Interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
+234;Protein;ESET;"Iinteracts with Histone-lysine N-methyltransferase SETDB1 (ESET) either directly or in a complex.";21874018
+234;Protein;SUV39H1;"Interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
+234;Protein;SETD8;"Interacts with N-lysine methyltransferase SETD8 either directly or in a complex. ";21874018
+234;Protein;CBX1;"Interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.";21874018
+235;Gene;FLO11;"ICR1 is transcribed by upstream of FLO11 in sense direction towards FLO11 and covers FLO11 promoter. ICR1 silences FLO11 in cis likely by promoter blocking.";19805129
+235;Gene;PWR1;"PWR1 is transcribed antisense to ICR1 and silences ICR1 in cis, most likely by promoter blocking.";19805129
+235;Transcript;PWR1;"PWR1 silences ICR1 in cis, most likely by promoter blocking.";19805129
+236;Gene;ICR1;"PWR1 is antisense to ICR1 and when expressed can silence ICR1 transcription in cis, likely by promoter blocking.";19805129
+236;Gene;FLO11;"Expression of PWR1 from FLO11 upstream regulatory region allows expression of FLO11 by silencing the FLO11 silencer ICR1.";19805129
+237;Gene;Dlx1;"Dlx1as overlaps exons and introns of Dlx1 in the antisense direction";8812481
+238;Gene;AT1G67930;"npc536 is antisense to AT1G67930, which encodes a Golgi-transport complex related protein.";8997003
+243;Gene;Dio3;"Some Dio3os transcripts overlap with Dio3 in an antisense orientation.";14962667
+246;Gene;"TY1 retrotransposon";"RTL is transcribed antisense to a TY1 retrotransposon";18316478
+246;Protein;Xrn1;"RTL is degraded by a cytoplasmic 5'-3' RNA decay pathway containing Xrn1, Dcp1 and Dcp2.";18316478
+247;Gene;GAL10;"GAL10-ncRNA is transcribed across the GAL10 gene in the antisense direction";19061643
+247;Gene;GAL1;"GAL10-ncRNA is transcribed across the GAL1 gene in the sense direction";19061643
+248;Gene;Znfx1;"5' of Zfas1 overlaps 5' of Znfx1 (zinc finger, NFX1-type containing 1) in an antisense orientation.";21460236
+249;Protein;PRC2;"Transcript that runs antisense to Gtl2/Meg3 identified as binding to the PRC2 chromatin modifying complex.";21172659
+250;Protein;PRC2;"Malat1 antisense binds to the PRC2 chromatin modification complex";21172659
+251;Gene;TIR1;"TIR1axut 3' end overlaps TIR1 protein coding gene in antisense direction";21697827
+252;Gene;TPO1;"TPO1axut 3' overlaps TIR1 protein coding gene in antisense direction";21697827
+256;Transcript;Nanog;"linc1242 required for normal expression of Nanog in mESCs";21874018
+256;Transcript;Oct4;"linc1242 required for normal expression of Oct4/Pou5f1 in mESCs";21874018
+257;Transcript;Nanog;"linc1368 required for normal expression of Nanog in mESCs";21874018
+257;Transcript;Oct4;"linc1368 required for normal expression of Oct4 in mESCs";21874018
+257;Transcript;Sox2;"linc1368 required for normal expression of Sox2 in mESCs";21874018
+257;Transcript;Klf4;"linc1368 required for normal expression of Klf4 in mESCs";21874018
+257;Transcript;Zfp42;"linc1368 required for normal expression of Zfp42 in mESCs";21874018
+258;Transcript;Nanog;"linc1609 required for normal expression of Nanog in mESCs";21874018
+258;Transcript;Oct4;"linc1609 required for normal expression of Oct4/Pou5f1 in mESCs";21874018
+258;Transcript;Sox2;"linc1609 required for normal expression of Sox2 in mESCs";21874018
+258;Transcript;Klf4;"linc1609 required for normal expression of Klf4 in mESCs";21874018
+258;Transcript;Zfp42;"linc1609 required for normal expression of Zfp42 in mESCs";21874018
+258;Protein;JARID1C;"Interacts with Lysine-specific demethylase 5C (JARID1C) either directly or in a complex.";21874018
+258;Protein;ESET;"Interacts with Histone-lysine N-methyltransferase SETDB1 (ESET) either directly or in a complex.";21874018
+259;Transcript;Nanog;"linc1610 required for normal expression of Nanog in mESCs";21874018
+259;Transcript;Oct4;"linc1610 required for normal expression of Oct4 in mESCs";21874018
+259;Transcript;Sox2;"linc1610 required for normal expression of Sox2 in mESCs";21874018
+259;Transcript;Klf4;"linc1610 required for normal expression of Klf4 in mESCs";21874018
+259;Transcript;Zfp42;"linc1610 required for normal expression of Zfp42 in mESCs";21874018
+259;Protein;PRC2;"Interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
+259;Protein;RING1B;"Interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
+259;Protein;JARID1C;"Interacts with Lysine-specific demethylase 5C (JARID1C) either directly or in a complex.";21874018
+260;Transcript;Nanog;"linc1582 required for normal expression of Nanog in mESCs";21874018
+260;Transcript;Oct4;"linc1582 required for normal expression of Oct4 in mESCs";21874018
+260;Transcript;Sox2;"linc1582 required for normal expression of Sox2 in mESCs";21874018
+260;Transcript;Klf4;"linc1582 required for normal expression of Klf4 in mESCs";21874018
+260;Transcript;Zfp42;"linc1582 required for normal expression of Zfp42 in mESCs";21874018
+261;Transcript;Nanog;"linc1547 required for normal expression of Nanog in mESCs";21874018
+261;Transcript;Oct4;"linc1547 required for normal expression of Oct4 in mESCs";21874018
+261;Transcript;Sox2;"linc1547 required for normal expression of Sox2 in mESCs";21874018
+261;Transcript;Klf4;"linc1547 required for normal expression of Klf4 in mESCs";21874018
+261;Transcript;Zfp42;"linc1547 required for normal expression of Zfp42 in mESCs";21874018
+261;Protein;SUV39H1;"Interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
+261;Protein;CBX3;"Interacts with Chromobox protein homolog 3 (CBX3) either directly or in a complex.";21874018
+262;Transcript;miR-671;"miR-671 down-regulates the expression of CDR1 AS";21964070
+262;Transcript;miR-7;"CDR1 AS binds and sequesters miR-7 which is unable to mediate degradation of CDR1 AS";23446346
+262;Protein;Ago2;"Through miR-7, CDR1 AS can bind and sequester Ago2";23446346
+263;Protein;PRC2;"Interacts with protein(s) of the Polycomb Repressive Complex 2";21874018
+263;Protein;RING1B;"Interacts with protein(s) of the Polycomb Repressive Complex 1. Interacts with E3 ubiquitin-protein ligase RING2 (RING1B) either directly or through the PRC1 complex.";21874018
+263;Protein;JARID1B;"Interacts with Lysine-specific demethylase 5B (JARID1B) either directly or in a complex. ";21874018
+263;Protein;SUV39H1;"Interacts with Histone-lysine N-methyltransferase SUV39H1 either directly or in a complex. ";21874018
+263;Protein;SETD8;"Interacts with N-lysine methyltransferase SETD8 either directly or in a complex. ";21874018
+263;Protein;CBX1;"Interacts with Chromobox protein homolog 1 (CBX1) either directly or in a complex.";21874018
+265;Gene;SPRY4;"SPRY4-IT1 expressed in sense direction from the 2nd intron in SPRY4 gene.";21558391
+266;Protein;MLL1;"A short hairpin near the 3' of Mira (the activator binding motif) binds to the SET domain of MLL1.";21925392
+266;Gene;Hoxa6;"Mira mediated a local rearrangement in chromatin structure to bring the Mira, Hox66 and Hoxa7 gene loci into a complex.";21925392
+266;Gene;Hoxa7;"Mira mediated a local rearrangement in chromatin structure to bring the Mira, Hox66 and Hoxa7 gene loci into a complex.";21925392
+267;Protein;"NF-YA ";"PANDA binds NF-YA preventing it from binding target gene promoters";21642992
+270;Transcript;miR-7;"cyrano has a highly conserved sequence which is hypothesised to be a miR-7 binding site. ";22196729
+272;Protein;CLF;"COLDAIR binds PRC2 complex protein CURLY LEAF (CLF)";21127216
+272;Gene;FLC;"Flowering locus C (FLC) is an important regulator of flowering time. Known to be repressed by prolonged cold (vernalization) epigenetically by the PHD-PRC2 complex";21127216
+273;Gene;ECM1;"LINC00568 stimulates ECM1 gene expression ";20887892
+274;Gene;KLHL12;"KDM5B-AS1 expression appears to stimulate KLHL12 gene expression";20887892
+275;Gene;"TAL1 ";"CYP4A22-AS1 expression stimulates TAL1 gene expression";20887892
+276;Gene;CMPK1;"PDZK1IP1-AS1 expression appears to stimulate CMPK1 gene expression";20887892
+277;Gene;"ROCK2 ";"	LINC00570 expression appears to stimulate ROCK2 gene expression";20887892
+278;Gene;SNAI1;"Stimulates SNAI1 gene expression";20887892
+278;Gene;AURKA;"Stimulates AURKA gene expression";20887892
+279;Transcript;miR-135;"linc-MD1 acts as an endogenous sponge or target mimic for miR-135 ";22000014
+279;Transcript;"miR-133 ";"linc-MD1 acts as an endogenous sponge or target mimic for miR-133 ";22000014
+280;Gene;SUR7;"Low level SUR7 expression can be inhibited by SUT719.";21326235
+280;Gene;GAL80;"SUT719 shares a bidirectional promoter with GAL80.";21326235
+281;Gene;PTENP1;"PTENP1 asRNAs transcripts (alpha, beta and unspliced) expressed antisense to PTENP1 pseudogene.";23435381
+281;Transcript;PTENP1;"PTENP1 asRNA beta isoform forms an RNA-RNA interaction with PTENP1 sense.";23435381
+281;Gene;PTEN;"PTENP1 asRNA alpha acts in trans by localising to the PTEN coding gene promoter and inhibiting expression.";23435381
+281;Protein;DNMT3A;"PTENP1 asRNA alpha binds DNMT3A (DNA methylase)";23435381
+282;Transcript;miR-138;"Sry circRNA binds miR-138 and acts as a microRNA sponge.";23446346

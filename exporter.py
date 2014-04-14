@@ -6,6 +6,7 @@ from cmsexporter_pythonclass import *
 sequence_worker =  SequenceWorker(6000)
 sequence_worker.read_file("data/Annotation_V3.tsv.txt", "annotation")
 sequence_worker.read_file("data/sequences.tsv", "sequences")
+sequence_worker.add_names("data/key_value.txt")
 
 character_worker = CharacterWorker(2000)
 character_worker.read_csv("data/character_annotation.csv", "characteristics")
@@ -29,6 +30,10 @@ alias_worker.read_csv("data/nomenclature_annotation.csv","nomenclature")
 
 character_worker.match(content='characteristics')
 sequence_worker.match()
+sequence_worker.search_ncbi()
+sequence_worker.fixup()
+print sequence_worker.fixed
+
 literature_worker.match(content='literature')
 species_worker.match(content='species')  
 assoc_worker.match(content='associatedcomp')
@@ -39,6 +44,8 @@ literature_worker.fixup()
 character_worker.fixup()
 assoc_worker.fixup()
 sequence_worker.fixup()
+print sequence_worker.files['sequences']
+
 alias_worker.fixup()
 
 
@@ -58,7 +65,7 @@ alias_worker.write_csv("output/alias.csv")
 
 master_controller=MasterController()
 
-master_controller.additems(literature_worker,character_worker,assoc_worker,sequence_worker,alias_worker)
+master_controller.additems(literature_worker,character_worker,species_worker,assoc_worker,sequence_worker,alias_worker)
 
 master_controller.check_consenses()
 master_controller.add_identifer("data/key_value.txt")
@@ -71,6 +78,7 @@ master_controller.write_csv()
 sequence_worker =  SequenceWorker(60000)
 sequence_worker.read_file("data/Annotation_V3.tsv.txt", "annotation")
 sequence_worker.read_file("data/sequences.tsv", "sequences")
+sequence_worker.add_names("data/key_value.txt")
 
 character_worker = CharacterWorker(20000)
 character_worker.read_csv("data/character_annotation.csv", "characteristics")
@@ -94,6 +102,7 @@ alias_worker.read_csv("data/nomenclature_annotation.csv","nomenclature")
 
 character_worker.match(content='characteristics')
 sequence_worker.match()
+sequence_worker.search_ncbi()
 literature_worker.match(content='literature')
 species_worker.match(content='species')  
 assoc_worker.match(content='associatedcomp')
@@ -123,14 +132,10 @@ alias_worker.write_csv("output/alias.csv")
 
 
 master_controller=MasterController()
-
-master_controller.additems(literature_worker,character_worker,assoc_worker,sequence_worker,alias_worker)
-
+master_controller.additems(literature_worker,character_worker, species_worker, assoc_worker,sequence_worker,alias_worker)
 master_controller.check_consenses()
-master_controller.add_identifer("data/key_value.txt")
-master_controller.build_cmsplugin()
-master_controller.write_csv()
 
+master_controller.add_identifer("data/key_value.txt")
 master_controller.build_cmsplugin_publisher()
 master_controller.write_csv()
 

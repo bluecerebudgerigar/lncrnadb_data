@@ -10,11 +10,13 @@ import json
 from itertools import *
 
 
+
 class GenericReader(object):
     def __init__(self,prefix):
         self.files = {}
         self.fixed = {}
         self.prefix = prefix
+        self.names_added = {}
 
         
         
@@ -67,8 +69,16 @@ class GenericReader(object):
          unmapped = set(self.files[content].keys()) - set(self.files[identifier].keys())
          for x in unmapped:
              del self.files[content][x]
-             
-             
+
+
+    def add_names(self, filename):
+        with open(filename, 'rb') as csvfile:
+            csv_reader = csv.reader(csvfile, delimiter="\t")
+            for row in csv_reader:
+                self.names_added[row[0]] = row[1]
+
+
+
     def name(self):
         return self.__class__.__name__                
     
@@ -96,13 +106,54 @@ class SequenceWorker(GenericReader):
             for seq_id, accession_id, seq_species in zip(seqid_list, accesion_list, seq_species_list):
                 sequence = seq_species,self.files[content][seq_id].split("\t")
                 sequence = sequence[1][1]
-                entry_list.append([seq_id, accession_id, seq_species, sequence])
+                entry_list.append([seq_id, accession_id, seq_species, sequence]) # making an list of list
                 
             self.seq_entries[lncrnadb_id] = entry_list
         self.files['sequences'] = self.seq_entries
+
+
+
+    def search_ncbi(self):
+        for id, details in self.seq_entries.iteritems():
+            n = 0
+            for detail in details:
+                n = n + 1
+                species = detail[2]
+                seq_name = self.names_added[id]
+                seq_name = "%s_%s_%s" % (seq_name, species, str(n))
+                seq_name = seq_name.lower()
+                seq_name = seq_name.replace(" ", "")
+                detail[0] = seq_name
+                accession_id = detail[1]
+                accession_id_list = accession_id.split(",")
+
+                for index, i in enumerate(accession_id_list):
+                    i = i.split(".")
+                    accession_uid = i[0]
+                    if "ENST" in accession_uid:
+                        accession_url = \
+                            "<a href=http://www.ensembl.org/Homo_sapiens/Transcript/Summary?db=core;t=%s>%s</a>" \
+                            % (accession_uid,accession_uid)
+                    elif accession_id is 'null':
+                        accession_url = 'null'
+                    else:
+                        accession_url = \
+                            "<a href=http://www.ncbi.nlm.nih.gov/nuccore/%s>%s</a>" \
+                            % ( accession_uid, accession_uid)
+
+
+                    accession_id_list[index] = accession_url
+
+                detail[1] = ",".join(accession_id_list)
+                self.seq_entries[id] = details
+        self.files['sequences'] = self.seq_entries
+
+
+
+
             
     def fixup(self, content='sequences'):
-        name = content.title()
+        name = content.title()  
         
         for transcript_id, value  in self.files[content].iteritems():
             cmsptr_id = self.prefix + int(transcript_id)
@@ -111,15 +162,17 @@ class SequenceWorker(GenericReader):
             for sequences in value:
                 data_column.append(sequences)
             seq_array.append(data_column)
-            
+            seq_name = self.names_added[str(transcript_id)]
+            seq_name = seq_name.lower().replace(" ","")
+            seq_array.append(seq_name)
             self.fixed[str(transcript_id)] = seq_array
-        print len(self.fixed.keys())
-        #    print value
-        #    print "cms_id;%s;1;0;0;%s" % (content, seq_entry)
-         
-            
-                
-            
+
+
+
+
+
+
+
 class CharacterWorker(GenericReader):
     def __init__(self,prefix):
         
@@ -278,7 +331,7 @@ class AssocWorker(GenericReader):
             for row in csv_reader:
                 line = ';'.join(row)
                 try:
-                    self.files[content][row[0]][row[1]] = row[3]
+                    self.files[content][row[0]][row[2]] = line
                 except KeyError as ERR:
                     #print "Creating New Hash %s" % ERR
                     self.files[content][row[0]] = {}
@@ -290,13 +343,16 @@ class AssocWorker(GenericReader):
         name = content.title()
         
         for transcript_id in self.files[content].keys(): ##
+            print transcript_id
             cmsptr_id =  self.prefix + int(transcript_id)
             associated_array = [str(cmsptr_id),name,"1","0","0"]
             data_column = [["Component Type","Component ID","Description","Pub Med ID"]]
             for key, value in self.files[content][transcript_id].iteritems():
                 data_list = value.split(";")
+           
                 data_column.append(data_list[1:])
             associated_array.append(data_column)
+            print associated_array
             self.fixed[str(transcript_id)] = associated_array
                 
                 #print "cms_id;Associated Component;1;0;0;%s" % (data_column)
@@ -335,6 +391,9 @@ class AliasWorker(GenericReader):
             nomenclature_array.append(data_column)
             self.fixed[str(transcript_id)] = nomenclature_array
             
+class ExpressionWorker(GenericReader):
+    def __init__(self,prefix):
+        GenericReader.__init__(self, prefix)
 
 
 class MasterController():
@@ -366,8 +425,7 @@ class MasterController():
         for a in args:
             dict_entry = a.fixed
             self.dict_dict[a.name()] = a.fixed
-            self.collection
-    
+
     def check_consenses(self):
         check_dict_length = []
         for d in self.dict_dict:
@@ -407,20 +465,20 @@ class MasterController():
                     tree_id = placeholder_id
                     language = "en"
                     create_date="2014-02-07 14:49:32"
-                    change_date = create_date
+                    changed_data="2014-03-07 14:49:32"
                     create_by = "quek"
                     plugin_type = self.plugin_types[cmp_id]
-                    row = [value[0], placeholder_id,parent_id,position,language,plugin_type,create_date,change_date,level,lft,right,tree_id]
+                    row = [value[0], placeholder_id,parent_id,position,language,plugin_type,create_date,changed_data,level,lft,right,tree_id]
+                    #print "%s\t%s" % (value[0], placeholder_id)
                     null = "\N"
                     slug = self.identifier[i].replace(" ","") 
                     slug = slug.replace("/","")
                     cms_page_id = int(i) + 10000
-                    
                     self.master_collection["cms_cmsplugins"][placeholder_id] = row
                     self.master_collection["cms_placeholder"][placeholder_id] = [placeholder_id, plugin_type,null]
                     self.master_collection["cms_page_placeholders"][placeholder_id] = [placeholder_id, i, placeholder_id]
-                    self.master_collection["cms_page"][i] = [i, create_by, create_by, null, create_date, create_date, null, null, 0,0,null,null, 0,"entry_template.html", 1,0,1,2,i,0,null, 1, cms_page_id, 1 ] 
-                    self.master_collection["cms_title"][i] = [i, language, self.identifier[i], null, slug, self.identifier[i], "0", null, null, null, null, null,cms_page_id,create_date ]
+                    self.master_collection["cms_page"][i] = [i, create_by, create_by, null, create_date, changed_data, create_date, null, 1,0,null,null, 1,"entry_template.html", 1,0,1,2,i,0,null, 1, cms_page_id, 0 ] 
+                    self.master_collection["cms_title"][i] = [i, language, self.identifier[i], null, slug, self.identifier[i], "0", null, null, null, null, 1,cms_page_id,create_date ]
                     
                 except KeyError as ERR:
                     pass
@@ -439,7 +497,7 @@ class MasterController():
                     row = []
                     value = self.dict_dict[d][i]
                     cmp_id = value[0][0]
-                    cms_cmsplugin_id = int(value[0]) + 10000
+                    cms_cmsplugin_id = int(value[0])
                     placeholder_id = placeholder_id + 1
                     parent_id = "\N"
                     position = self.position_types[cmp_id]
@@ -449,34 +507,24 @@ class MasterController():
                     tree_id = placeholder_id
                     language = "en"
                     create_date="2014-02-07 14:49:32"
-                    change_date = create_date
+                    changed_data="2014-03-07 14:49:32"
+                    
                     create_by = "quek"
                     plugin_type = self.plugin_types[cmp_id]
                     cms_page_id = int(i) + 10000
-                    row = [cms_cmsplugin_id, placeholder_id,parent_id,position,language,plugin_type,create_date,change_date,level,lft,right,tree_id]
+                    row = [cms_cmsplugin_id, placeholder_id,parent_id,position,language,plugin_type,create_date,changed_data,level,lft,right,tree_id]
                     null = "\N"
                     slug = self.identifier[i].replace(" ","") 
                     slug = slug.replace("/","")
+                    print "%s\t%s\t%s\t%s" % (value[0], cms_cmsplugin_id,plugin_type,placeholder_id)
                     
                     self.master_collection["cms_cmsplugins"][placeholder_id] = row
                     self.master_collection["cms_placeholder"][placeholder_id] = [placeholder_id, plugin_type,null]
-                    self.master_collection["cms_page_placeholders"][placeholder_id] = [placeholder_id, i, placeholder_id]
-                    self.master_collection["cms_page"][i] = [cms_page_id, create_by, create_by, null, create_date, create_date, null, null, 0,0,null,null, 0,"entry_template.html", 1,0,1,2,cms_page_id,0,null, 1, i, 1 ] 
+                    self.master_collection["cms_page_placeholders"][placeholder_id] = [placeholder_id, cms_page_id, placeholder_id]
+                    self.master_collection["cms_page"][i] = [cms_page_id, create_by, create_by, null, create_date, changed_data, create_date, null, 1,0,null,null, 1,"entry_template.html", 1,0,1,2,cms_page_id,0,null, 0, i, 1 ] 
                     self.master_collection["cms_title"][i] = [cms_page_id, language, self.identifier[i], null, slug, self.identifier[i], "0", null, null, null, null, 1,i,create_date ]
                          
-                     
-                     
-                     
-              #   self.cmsplugins_format[placeholder_id] =  row
-              #   self.cmsplaceholder[placeholder_id] = [placeholder_id, plugin_type,null]            
-              #   self.cms_page_format[i].append(placeholder_id)
-              #   self.cms_page_placeholder[placeholder_id] = [placeholder_id, i, placeholder_id]
-              #               
-              #   self.cms_page[i]= [i, create_by, create_by, null, create_date, create_date, null, null, 0,0,null,null, 0,"entry_template.html", 1,0,1,2,1,0,null, 1, null, 1 ] 
-              #   
-              #   ## id/createby/changeby/parentid/creationdate/changeddata/publicationdata/plublicationen/ \ innavigation/softroot/reverseid/navigation_enx/published/template/siteid/ 
-              #   ##\login/required/limit_vis/level/lft/rght/treeid/publishedisdraf/published/
-              #   self.cms_title[i]=[i, language, self.identifier[i], null, self.identifier[i], null, 0, null, null, null, null, null,i,create_date ]
+
                 except KeyError as ERR:
                     pass
     
